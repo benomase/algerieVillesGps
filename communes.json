@@ -61,7 +61,7 @@
         },
         "gps": {
             "lng": -0.188863,
-            "lat": 27.970480
+            "lat": 27.97048
         }
     },
     {
@@ -217,7 +217,7 @@
         },
         "gps": {
             "lng": -0.433333,
-            "lat": 28.016700
+            "lat": 28.0167
         }
     },
     {
@@ -307,8 +307,8 @@
             "fr": "Talmine"
         },
         "gps": {
-            "lng": -0.497500,
-            "lat": 29.331400
+            "lng": -0.4975,
+            "lat": 29.3314
         }
     },
     {
@@ -321,7 +321,7 @@
         },
         "gps": {
             "lng": 0.954167,
-            "lat": 21.328900
+            "lat": 21.3289
         }
     },
     {
@@ -1022,8 +1022,8 @@
             "fr": "Sebgag"
         },
         "gps": {
-            "lng": 1.927980,
-            "lat": 34.029580
+            "lng": 1.92798,
+            "lat": 34.02958
         }
     },
     {
@@ -1113,7 +1113,7 @@
             "fr": "El Houita"
         },
         "gps": {
-            "lng": 2.454200,
+            "lng": 2.4542,
             "lat": 33.649707
         }
     },
@@ -1309,7 +1309,7 @@
         },
         "gps": {
             "lng": 7.507954,
-            "lat": 35.663150
+            "lat": 35.66315
         }
     },
     {
@@ -2301,316 +2301,680 @@
         }
     },
     {
-        "id": "178",
+        "id": 178,
         "code_postal": "06001",
-        "nom": "Bejaia",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "بجاية",
+            "fr": "Bejaia"
+        },
+        "gps": {
+            "lng": 5.056733299999999,
+            "lat": 36.7508896
+        }
     },
     {
-        "id": "179",
+        "id": 179,
         "code_postal": "06002",
-        "nom": "Amizour",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "اميزور",
+            "fr": "Amizour"
+        },
+        "gps": {
+            "lng": 4.903334,
+            "lat": 36.6421159
+        }
     },
     {
-        "id": "180",
+        "id": 180,
         "code_postal": "06003",
-        "nom": "Ferraoun",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "فرعون",
+            "fr": "Ferraoun"
+        },
+        "gps": {
+            "lng": 4.8647019,
+            "lat": 36.55740470000001
+        }
     },
     {
-        "id": "181",
+        "id": 181,
         "code_postal": "06004",
-        "nom": "Taourirt Ighil",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "تاوريرت اغيل",
+            "fr": "Taourirt Ighil"
+        },
+        "gps": {
+            "lng": 4.738101299999999,
+            "lat": 36.72021549999999
+        }
     },
     {
-        "id": "182",
+        "id": 182,
         "code_postal": "06005",
-        "nom": "Chelata",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "شلاطة",
+            "fr": "Chelata"
+        },
+        "gps": {
+            "lng": 4.510886200000001,
+            "lat": 36.5135502
+        }
     },
     {
-        "id": "183",
+        "id": 183,
         "code_postal": "06006",
-        "nom": "Tamokra",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "تامقرة",
+            "fr": "Tamokra"
+        },
+        "gps": {
+            "lng": 4.667343199999999,
+            "lat": 36.3983738
+        }
     },
     {
-        "id": "184",
+        "id": 184,
         "code_postal": "06007",
-        "nom": "Timzrit",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "تيمزريت",
+            "fr": "Timzrit"
+        },
+        "gps": {
+            "lng": 4.7749158,
+            "lat": 36.6151583
+        }
     },
     {
-        "id": "185",
+        "id": 185,
         "code_postal": "06008",
-        "nom": "Souk El Thenine",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "ﺳﻮق اﻻﺛﻨﻴﻦ",
+            "fr": "Souk El Thenine"
+        },
+        "gps": {
+            "lng": 5.3360215,
+            "lat": 36.6256524
+        }
     },
     {
-        "id": "186",
+        "id": 186,
         "code_postal": "06009",
-        "nom": "Mcisna",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "مسيسنة",
+            "fr": "Mcisna"
+        },
+        "gps": {
+            "lng": 4.710368,
+            "lat": 36.56340700000001
+        }
     },
     {
-        "id": "187",
+        "id": 187,
         "code_postal": "06010",
-        "nom": "Thinabdher",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "ثينبدير",
+            "fr": "Thinabdher"
+        },
+        "gps": {
+            "lng": "5.074636",
+            "lat": "36.754597"
+        }
     },
     {
-        "id": "188",
+        "id": 188,
         "code_postal": "06011",
-        "nom": "Tichi",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "تيشي",
+            "fr": "Tichi"
+        },
+        "gps": {
+            "lng": 5.1550882,
+            "lat": 36.6682721
+        }
     },
     {
-        "id": "189",
+        "id": 189,
         "code_postal": "06012",
-        "nom": "Semaoun",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "سمعون",
+            "fr": "Semaoun"
+        },
+        "gps": {
+            "lng": 4.823662,
+            "lat": 36.61496100000001
+        }
     },
     {
-        "id": "190",
+        "id": 190,
         "code_postal": "06013",
-        "nom": "Kendira",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "كنديرة",
+            "fr": "Kendira"
+        },
+        "gps": {
+            "lng": 5.0268199,
+            "lat": 36.5404083
+        }
     },
     {
-        "id": "191",
+        "id": 191,
         "code_postal": "06014",
-        "nom": "Tifra",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "تيفرة",
+            "fr": "Tifra"
+        },
+        "gps": {
+            "lng": 4.6963496,
+            "lat": 36.6667365
+        }
     },
     {
-        "id": "192",
+        "id": 192,
         "code_postal": "06015",
-        "nom": "Ighram",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "إغرم",
+            "fr": "Ighram"
+        },
+        "gps": {
+            "lng": 4.504893900000001,
+            "lat": 36.46246610000001
+        }
     },
     {
-        "id": "193",
+        "id": 193,
         "code_postal": "06016",
-        "nom": "Amalou",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "امالو",
+            "fr": "Amalou"
+        },
+        "gps": {
+            "lng": 4.632585300000001,
+            "lat": 36.47746259999999
+        }
     },
     {
-        "id": "194",
+        "id": 194,
         "code_postal": "06017",
-        "nom": "Ighil Ali",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "إغيل على",
+            "fr": "Ighil Ali"
+        },
+        "gps": {
+            "lng": 4.4702131,
+            "lat": 36.3379865
+        }
     },
     {
-        "id": "195",
+        "id": 195,
         "code_postal": "06018",
-        "nom": "Ifelain Ilmathen",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "افناين الماثن",
+            "fr": "Ifelain Ilmathen"
+        },
+        "gps": {
+            "lng": 4.7680575,
+            "lat": 36.6691075
+        }
     },
     {
-        "id": "196",
+        "id": 196,
         "code_postal": "06019",
-        "nom": "Toudja",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "توجة",
+            "fr": "Toudja"
+        },
+        "gps": {
+            "lng": 4.8899903,
+            "lat": 36.7490754
+        }
     },
     {
-        "id": "197",
+        "id": 197,
         "code_postal": "06020",
-        "nom": "Darguina",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "درقينة",
+            "fr": "Darguina"
+        },
+        "gps": {
+            "lng": 5.3059896,
+            "lat": 36.5646323
+        }
     },
     {
-        "id": "198",
+        "id": 198,
         "code_postal": "06021",
-        "nom": "Sidi Ayad",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "سيدي عياد",
+            "fr": "Sidi Ayad"
+        },
+        "gps": {
+            "lng": 4.7159414,
+            "lat": 36.6122273
+        }
     },
     {
-        "id": "199",
+        "id": 199,
         "code_postal": "06022",
-        "nom": "Aokas",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "أوقاس",
+            "fr": "Aokas"
+        },
+        "gps": {
+            "lng": 5.2440622,
+            "lat": 36.6369535
+        }
     },
     {
-        "id": "200",
+        "id": 200,
         "code_postal": "06023",
-        "nom": "Beni Djellil",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "آيث جليل",
+            "fr": "Beni Djellil"
+        },
+        "gps": {
+            "lng": 4.810768,
+            "lat": 36.57292710000001
+        }
     },
     {
-        "id": "201",
+        "id": 201,
         "code_postal": "06024",
-        "nom": "Adekar",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "آدكار",
+            "fr": "Adekar"
+        },
+        "gps": {
+            "lng": 4.669073,
+            "lat": 36.6942103
+        }
     },
     {
-        "id": "202",
+        "id": 202,
         "code_postal": "06025",
-        "nom": "Akbou",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "أقبو",
+            "fr": "Akbou"
+        },
+        "gps": {
+            "lng": 4.5334783,
+            "lat": 36.45901610000001
+        }
     },
     {
-        "id": "203",
+        "id": 203,
         "code_postal": "06026",
-        "nom": "Seddouk",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "صدوق",
+            "fr": "Seddouk"
+        },
+        "gps": {
+            "lng": 4.6868666,
+            "lat": 36.5446668
+        }
     },
     {
-        "id": "204",
+        "id": 204,
         "code_postal": "06027",
-        "nom": "Tazmalt",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "تازمالت",
+            "fr": "Tazmalt"
+        },
+        "gps": {
+            "lng": 4.407921300000001,
+            "lat": 36.3878041
+        }
     },
     {
-        "id": "205",
+        "id": 205,
         "code_postal": "06028",
-        "nom": "Ait Rizine",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "آيت أرزين",
+            "fr": "Ait Rizine"
+        },
+        "gps": {
+            "lng": 4.531502899999999,
+            "lat": 36.3831907
+        }
     },
     {
-        "id": "206",
+        "id": 206,
         "code_postal": "06029",
-        "nom": "Chemini",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "شميني",
+            "fr": "Chemini"
+        },
+        "gps": {
+            "lng": 4.615230799999999,
+            "lat": 36.5956868
+        }
     },
     {
-        "id": "207",
+        "id": 207,
         "code_postal": "06030",
-        "nom": "Souk Oufella",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "سوق أوفلة",
+            "fr": "Souk Oufella"
+        },
+        "gps": {
+            "lng": 4.6295394,
+            "lat": 36.6114371
+        }
     },
     {
-        "id": "208",
+        "id": 208,
         "code_postal": "06031",
-        "nom": "Taskriout",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "تاسقريوت",
+            "fr": "Taskriout"
+        },
+        "gps": {
+            "lng": 5.284117699999999,
+            "lat": 36.5519437
+        }
     },
     {
-        "id": "209",
+        "id": 209,
         "code_postal": "06032",
-        "nom": "Tibane",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "طيبان",
+            "fr": "Tibane"
+        },
+        "gps": {
+            "lng": 4.6513509,
+            "lat": 36.6127223
+        }
     },
     {
-        "id": "210",
+        "id": 210,
         "code_postal": "06033",
-        "nom": "Tala Hamza",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "ثالة حمزة",
+            "fr": "Tala Hamza"
+        },
+        "gps": {
+            "lng": 5.0078451,
+            "lat": 36.6876795
+        }
     },
     {
-        "id": "211",
+        "id": 211,
         "code_postal": "06034",
-        "nom": "Barbacha",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "برباشة",
+            "fr": "Barbacha"
+        },
+        "gps": {
+            "lng": 4.971239,
+            "lat": 36.5729398
+        }
     },
     {
-        "id": "212",
+        "id": 212,
         "code_postal": "06035",
-        "nom": "Beni Ksila",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "بنى كسيلة",
+            "fr": "Beni Ksila"
+        },
+        "gps": {
+            "lng": 4.707061599999999,
+            "lat": 36.839681
+        }
     },
     {
-        "id": "213",
+        "id": 213,
         "code_postal": "06036",
-        "nom": "Ouzallaguen",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "أوزلاقن",
+            "fr": "Ouzallaguen"
+        },
+        "gps": {
+            "lng": 4.572759800000001,
+            "lat": 36.554343
+        }
     },
     {
-        "id": "214",
+        "id": 214,
         "code_postal": "06037",
-        "nom": "Bouhamza",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "بوحمزة",
+            "fr": "Bouhamza"
+        },
+        "gps": {
+            "lng": 4.6853713,
+            "lat": 36.4452822
+        }
     },
     {
-        "id": "215",
+        "id": 215,
         "code_postal": "06038",
-        "nom": "Beni Melikeche",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "بني مليكيش",
+            "fr": "Beni Melikeche"
+        },
+        "gps": {
+            "lng": "4.400000",
+            "lat": "36.433000"
+        }
     },
     {
-        "id": "216",
+        "id": 216,
         "code_postal": "06039",
-        "nom": "Sidi Aich",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "سيدي عيش",
+            "fr": "Sidi Aich"
+        },
+        "gps": {
+            "lng": 4.6915484,
+            "lat": 36.6090172
+        }
     },
     {
-        "id": "217",
+        "id": 217,
         "code_postal": "06040",
-        "nom": "El Kseur",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "القصر",
+            "fr": "El Kseur"
+        },
+        "gps": {
+            "lng": 4.849324399999999,
+            "lat": 36.6775642
+        }
     },
     {
-        "id": "218",
+        "id": 218,
         "code_postal": "06041",
-        "nom": "Melbou",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "ملبو",
+            "fr": "Melbou"
+        },
+        "gps": {
+            "lng": 5.383485400000001,
+            "lat": 36.62827469999999
+        }
     },
     {
-        "id": "219",
+        "id": 219,
         "code_postal": "06042",
-        "nom": "Akfadou",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "اكفادو",
+            "fr": "Akfadou"
+        },
+        "gps": {
+            "lng": 4.6243989,
+            "lat": 36.6307165
+        }
     },
     {
-        "id": "220",
+        "id": 220,
         "code_postal": "06043",
-        "nom": "Leflaye",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "لفلاى",
+            "fr": "Leflaye"
+        },
+        "gps": {
+            "lng": 4.6714261,
+            "lat": 36.6090298
+        }
     },
     {
-        "id": "221",
+        "id": 221,
         "code_postal": "06044",
-        "nom": "Kherrata",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "خراطة",
+            "fr": "Kherrata"
+        },
+        "gps": {
+            "lng": 5.2781276,
+            "lat": 36.49313770000001
+        }
     },
     {
-        "id": "222",
+        "id": 222,
         "code_postal": "06045",
-        "nom": "Draa Kaid",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "دراع قايد",
+            "fr": "Draa Kaid"
+        },
+        "gps": {
+            "lng": "5.227276",
+            "lat": "36.417449"
+        }
     },
     {
-        "id": "223",
+        "id": 223,
         "code_postal": "06046",
-        "nom": "Tamridjet",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "تامريجت",
+            "fr": "Tamridjet"
+        },
+        "gps": {
+            "lng": 5.4253757,
+            "lat": 36.5833119
+        }
     },
     {
-        "id": "224",
+        "id": 224,
         "code_postal": "06047",
-        "nom": "Ait Smail",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "آيت سماعيل",
+            "fr": "Ait Smail"
+        },
+        "gps": {
+            "lng": 5.2302325,
+            "lat": 36.5463433
+        }
     },
     {
-        "id": "225",
+        "id": 225,
         "code_postal": "06048",
-        "nom": "Boukhelifa",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "بوخليفة",
+            "fr": "Boukhelifa"
+        },
+        "gps": {
+            "lng": 5.0880839,
+            "lat": 36.6698411
+        }
     },
     {
-        "id": "226",
+        "id": 226,
         "code_postal": "06049",
-        "nom": "Tizi Nberber",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "تيزى نبربر",
+            "fr": "Tizi Nberber"
+        },
+        "gps": {
+            "lng": 5.217631699999999,
+            "lat": 36.6134619
+        }
     },
     {
-        "id": "227",
+        "id": 227,
         "code_postal": "06050",
-        "nom": "Beni Maouch",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "بني معوش",
+            "fr": "Beni Maouch"
+        },
+        "gps": {
+            "lng": 4.7578312,
+            "lat": 36.50707850000001
+        }
     },
     {
-        "id": "228",
+        "id": 228,
         "code_postal": "06051",
-        "nom": "Oued Ghir",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "وادي غير",
+            "fr": "Oued Ghir"
+        },
+        "gps": {
+            "lng": 4.9795489,
+            "lat": 36.7093915
+        }
     },
     {
-        "id": "229",
+        "id": 229,
         "code_postal": "06052",
-        "nom": "Boudjellil",
-        "wilaya_id": "6"
+        "wilaya_id": "6",
+        "nom": {
+            "ar": "بوجليل",
+            "fr": "Boudjellil"
+        },
+        "gps": {
+            "lng": 4.4111706,
+            "lat": 36.3506738
+        }
     },
     {
         "id": 230,
@@ -3042,130 +3406,277 @@
         }
     },
     {
-        "id": "263",
+        "id": 263,
         "code_postal": "08001",
-        "nom": "Bechar",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "بشار",
+            "fr": "Bechar"
+        },
+        "gps": {
+            "lng": -2.2194864,
+            "lat": 31.6167026
+        }
     },
     {
-        "id": "264",
+        "id": 264,
         "code_postal": "08002",
-        "nom": "Erg Ferradj",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "العبادلة",
+            "fr": "Erg Ferradj"
+        },
+        "gps": {
+            "lng": -2.79197,
+            "lat": 31.0354027
+        }
     },
     {
-        "id": "265",
+        "id": 265,
         "code_postal": "08003",
-        "nom": "Ouled Khoudir",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "أولاد خدير",
+            "fr": "Ouled Khoudir"
+        },
+        "gps": {
+            "lng": -1.0598107,
+            "lat": 29.2555013
+        }
     },
     {
-        "id": "266",
+        "id": 266,
         "code_postal": "08004",
-        "nom": "Meridja",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "مريجة",
+            "fr": "Meridja"
+        },
+        "gps": {
+            "lng": -2.945068,
+            "lat": 31.5517416
+        }
     },
     {
-        "id": "267",
+        "id": 267,
         "code_postal": "08005",
-        "nom": "Timoudi",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "تيمودى",
+            "fr": "Timoudi"
+        },
+        "gps": {
+            "lng": -1.1269073,
+            "lat": 29.3188506
+        }
     },
     {
-        "id": "268",
+        "id": 268,
         "code_postal": "08006",
-        "nom": "Lahmar",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "لحمر",
+            "fr": "Lahmar"
+        },
+        "gps": {
+            "lng": -2.2581158,
+            "lat": 31.9330162
+        }
     },
     {
-        "id": "269",
+        "id": 269,
         "code_postal": "08007",
-        "nom": "Beni Abbes",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "بني عباس",
+            "fr": "Beni Abbes"
+        },
+        "gps": {
+            "lng": -2.1671288,
+            "lat": 30.1324686
+        }
     },
     {
-        "id": "270",
+        "id": 270,
         "code_postal": "08008",
-        "nom": "Beni Ikhlef",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "بني يخلف",
+            "fr": "Beni Ikhlef"
+        },
+        "gps": {
+            "lng": -1.604054,
+            "lat": 29.580219
+        }
     },
     {
-        "id": "271",
+        "id": 271,
         "code_postal": "08009",
-        "nom": "Mechraa Houari B",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "مشراع هوراي ب",
+            "fr": "Mechraa Houari B"
+        },
+        "gps": {
+            "lng": "-2,737500",
+            "lat": "30,932220"
+        }
     },
     {
-        "id": "272",
+        "id": 272,
         "code_postal": "08010",
-        "nom": "Kenedsa",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "القنادسة",
+            "fr": "Kenedsa"
+        },
+        "gps": {
+            "lng": -2.4233417,
+            "lat": 31.5569451
+        }
     },
     {
-        "id": "273",
+        "id": 273,
         "code_postal": "08011",
-        "nom": "Igli",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "إقلي",
+            "fr": "Igli"
+        },
+        "gps": {
+            "lng": -2.2907524,
+            "lat": 30.452471
+        }
     },
     {
-        "id": "274",
+        "id": 274,
         "code_postal": "08012",
-        "nom": "Tabalbala",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "تبلبالة",
+            "fr": "Tabalbala"
+        },
+        "gps": {
+            "lng": -3.2557384,
+            "lat": 29.4055402
+        }
     },
     {
-        "id": "275",
+        "id": 275,
         "code_postal": "08013",
-        "nom": "Taghit",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "تــــاغـيــث",
+            "fr": "Taghit"
+        },
+        "gps": {
+            "lng": -2.032217199999999,
+            "lat": 30.92010579999999
+        }
     },
     {
-        "id": "276",
+        "id": 276,
         "code_postal": "08014",
-        "nom": "El Ouata",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "الوطى",
+            "fr": "El Ouata"
+        },
+        "gps": {
+            "lng": -1.8269573,
+            "lat": 29.8515849
+        }
     },
     {
-        "id": "277",
+        "id": 277,
         "code_postal": "08015",
-        "nom": "Boukais",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "بوكايس",
+            "fr": "Boukais"
+        },
+        "gps": {
+            "lng": -2.462650999999999,
+            "lat": 31.923019
+        }
     },
     {
-        "id": "278",
+        "id": 278,
         "code_postal": "08016",
-        "nom": "Mogheul",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "موغل",
+            "fr": "Mogheul"
+        },
+        "gps": {
+            "lng": -2.2175179,
+            "lat": 32.023248
+        }
     },
     {
-        "id": "279",
+        "id": 279,
         "code_postal": "08017",
-        "nom": "Abadla",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "العبادلة",
+            "fr": "Abadla"
+        },
+        "gps": {
+            "lng": -2.7431421,
+            "lat": 31.0102291
+        }
     },
     {
-        "id": "280",
+        "id": 280,
         "code_postal": "08018",
-        "nom": "Kerzaz",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "كرزاز",
+            "fr": "Kerzaz"
+        },
+        "gps": {
+            "lng": -1.4386366,
+            "lat": 29.4624252
+        }
     },
     {
-        "id": "281",
+        "id": 281,
         "code_postal": "08019",
-        "nom": "Ksabi",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "قصابى",
+            "fr": "Ksabi"
+        },
+        "gps": {
+            "lng": -0.9725085,
+            "lat": 29.1006615
+        }
     },
     {
-        "id": "282",
+        "id": 282,
         "code_postal": "08020",
-        "nom": "Tamtert",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "تامترت",
+            "fr": "Tamtert"
+        },
+        "gps": {
+            "lng": -1.899999999999999,
+            "lat": 29.91666699999999
+        }
     },
     {
-        "id": "283",
+        "id": 283,
         "code_postal": "08021",
-        "nom": "Beni Ounif",
-        "wilaya_id": "8"
+        "wilaya_id": "8",
+        "nom": {
+            "ar": "بني ونيف",
+            "fr": "Beni Ounif"
+        },
+        "gps": {
+            "lng": -1.2457898,
+            "lat": 32.0492426
+        }
     },
     {
         "id": 284,
@@ -4152,7 +4663,7 @@
         },
         "gps": {
             "lng": 6.260949,
-            "lat": 23.422510
+            "lat": 23.42251
         }
     },
     {
@@ -4208,172 +4719,368 @@
         }
     },
     {
-        "id": "364",
+        "id": 364,
         "code_postal": "12001",
-        "nom": "Tebessa",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "تبسة‎",
+            "fr": "Tebessa"
+        },
+        "gps": {
+            "lng": 8.101092000000001,
+            "lat": 35.4142494
+        }
     },
     {
-        "id": "365",
+        "id": 365,
         "code_postal": "12002",
-        "nom": "Bir El Ater",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "بئر العاتر",
+            "fr": "Bir El Ater"
+        },
+        "gps": {
+            "lng": 8.057429899999999,
+            "lat": 34.7610886
+        }
     },
     {
-        "id": "366",
+        "id": 366,
         "code_postal": "12003",
-        "nom": "Cheria",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "الــشــريــعـة",
+            "fr": "Cheria"
+        },
+        "gps": {
+            "lng": 7.7471025,
+            "lat": 35.2684831
+        }
     },
     {
-        "id": "367",
+        "id": 367,
         "code_postal": "12004",
-        "nom": "Stah Guentis",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "صطح غنطيس",
+            "fr": "Stah Guentis"
+        },
+        "gps": {
+            "lng": "7.308290",
+            "lat": "34.998400"
+        }
     },
     {
-        "id": "368",
+        "id": 368,
         "code_postal": "12005",
-        "nom": "El Aouinet",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "العوينات",
+            "fr": "El Aouinet"
+        },
+        "gps": {
+            "lng": 7.885766500000001,
+            "lat": 35.86580560000001
+        }
     },
     {
-        "id": "369",
+        "id": 369,
         "code_postal": "12006",
-        "nom": "Lahouidjbet",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "الحويجبات",
+            "fr": "Lahouidjbet"
+        },
+        "gps": {
+            "lng": 8.2801065,
+            "lat": 35.2917478
+        }
     },
     {
-        "id": "370",
+        "id": 370,
         "code_postal": "12007",
-        "nom": "Safsaf El Ouesra",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "صفصاف الوسرة",
+            "fr": "Safsaf El Ouesra"
+        },
+        "gps": {
+            "lng": 8.2076282,
+            "lat": 34.9565856
+        }
     },
     {
-        "id": "371",
+        "id": 371,
         "code_postal": "12008",
-        "nom": "Hammamet",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "الحمامات",
+            "fr": "Hammamet"
+        },
+        "gps": {
+            "lng": 7.953837799999999,
+            "lat": 35.4512851
+        }
     },
     {
-        "id": "372",
+        "id": 372,
         "code_postal": "12009",
-        "nom": "Negrine",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "نقرين",
+            "fr": "Negrine"
+        },
+        "gps": {
+            "lng": 7.5193093,
+            "lat": 34.4820138
+        }
     },
     {
-        "id": "373",
+        "id": 373,
         "code_postal": "12010",
-        "nom": "Bir El Mokadem",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "بــئــر مــقـدم",
+            "fr": "Bir El Mokadem"
+        },
+        "gps": {
+            "lng": 7.8096037,
+            "lat": 35.3708248
+        }
     },
     {
-        "id": "374",
+        "id": 374,
         "code_postal": "12011",
-        "nom": "El Kouif",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "الكويف",
+            "fr": "El Kouif"
+        },
+        "gps": {
+            "lng": 8.3225325,
+            "lat": 35.4998244
+        }
     },
     {
-        "id": "375",
+        "id": 375,
         "code_postal": "12012",
-        "nom": "Morsott",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "مرسط",
+            "fr": "Morsott"
+        },
+        "gps": {
+            "lng": 8.0110677,
+            "lat": 35.6676901
+        }
     },
     {
-        "id": "376",
+        "id": 376,
         "code_postal": "12013",
-        "nom": "El Ogla",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "العقلة",
+            "fr": "El Ogla"
+        },
+        "gps": {
+            "lng": 7.466666999999999,
+            "lat": 35.183333
+        }
     },
     {
-        "id": "377",
+        "id": 377,
         "code_postal": "12014",
-        "nom": "Bir Dheheb",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "بير ذهاب",
+            "fr": "Bir Dheheb"
+        },
+        "gps": {
+            "lng": "7.938382",
+            "lat": "35.525390"
+        }
     },
     {
-        "id": "378",
+        "id": 378,
         "code_postal": "12015",
-        "nom": "El Ogla El Malha",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "العقلة المالحة",
+            "fr": "El Ogla El Malha"
+        },
+        "gps": {
+            "lng": "7.951111",
+            "lat": "35.121940"
+        }
     },
     {
-        "id": "379",
+        "id": 379,
         "code_postal": "12016",
-        "nom": "Gorriguer",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "غوريغر",
+            "fr": "Gorriguer"
+        },
+        "gps": {
+            "lng": "8.116942",
+            "lat": "35.400134"
+        }
     },
     {
-        "id": "380",
+        "id": 380,
         "code_postal": "12017",
-        "nom": "Bekkaria",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "بكارية",
+            "fr": "Bekkaria"
+        },
+        "gps": {
+            "lng": 8.25,
+            "lat": 35.366667
+        }
     },
     {
-        "id": "381",
+        "id": 381,
         "code_postal": "12018",
-        "nom": "Boukhadra",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "بوخضرة",
+            "fr": "Boukhadra"
+        },
+        "gps": {
+            "lng": 8.032881499999998,
+            "lat": 35.7476345
+        }
     },
     {
-        "id": "382",
+        "id": 382,
         "code_postal": "12019",
-        "nom": "Ouenza",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "الونزة",
+            "fr": "Ouenza"
+        },
+        "gps": {
+            "lng": 8.1393179,
+            "lat": 35.9489963
+        }
     },
     {
-        "id": "383",
+        "id": 383,
         "code_postal": "12020",
-        "nom": "El Ma El Biodh",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "الماء الأبيض",
+            "fr": "El Ma El Biodh"
+        },
+        "gps": {
+            "lng": 8.169366599999998,
+            "lat": 35.2051832
+        }
     },
     {
-        "id": "384",
+        "id": 384,
         "code_postal": "12021",
-        "nom": "Oum Ali",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "أم على",
+            "fr": "Oum Ali"
+        },
+        "gps": {
+            "lng": 8.300632199999999,
+            "lat": 35.0104461
+        }
     },
     {
-        "id": "385",
+        "id": 385,
         "code_postal": "12022",
-        "nom": "Thlidjene",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "ثليجين",
+            "fr": "Thlidjene"
+        },
+        "gps": {
+            "lng": "8.116964",
+            "lat": "35.400013"
+        }
     },
     {
-        "id": "386",
+        "id": 386,
         "code_postal": "12023",
-        "nom": "Ain Zerga",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "عين الزرقاء",
+            "fr": "Ain Zerga"
+        },
+        "gps": {
+            "lng": 8.266667000000002,
+            "lat": 35.633333
+        }
     },
     {
-        "id": "387",
+        "id": 387,
         "code_postal": "12024",
-        "nom": "El Meridj",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "المريج",
+            "fr": "El Meridj"
+        },
+        "gps": {
+            "lng": 8.229500900000001,
+            "lat": 35.7939476
+        }
     },
     {
-        "id": "388",
+        "id": 388,
         "code_postal": "12025",
-        "nom": "Boulhaf Dyr",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "بولهاف دير",
+            "fr": "Boulhaf Dyr"
+        },
+        "gps": {
+            "lng": "8.073376",
+            "lat": "35.488258"
+        }
     },
     {
-        "id": "389",
+        "id": 389,
         "code_postal": "12026",
-        "nom": "Bedjene",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "بجن",
+            "fr": "Bedjene"
+        },
+        "gps": {
+            "lng": 7.4746519,
+            "lat": 35.3497731
+        }
     },
     {
-        "id": "390",
+        "id": 390,
         "code_postal": "12027",
-        "nom": "El Mazeraa",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "المزيرعة",
+            "fr": "El Mazeraa"
+        },
+        "gps": {
+            "lng": "8.117000",
+            "lat": "35.400000"
+        }
     },
     {
-        "id": "391",
+        "id": 391,
         "code_postal": "12028",
-        "nom": "Ferkane",
-        "wilaya_id": "12"
+        "wilaya_id": "12",
+        "nom": {
+            "ar": "فـــــــركـــــان",
+            "fr": "Ferkane"
+        },
+        "gps": {
+            "lng": 7.408395799999999,
+            "lat": 34.5576609
+        }
     },
     {
         "id": 392,
@@ -4553,8 +5260,8 @@
             "fr": "Amieur"
         },
         "gps": {
-            "lng": -1.240000,
-            "lat": 35.035280
+            "lng": -1.24,
+            "lat": 35.03528
         }
     },
     {
@@ -4657,8 +5364,8 @@
             "fr": "Sebbaa Chioukh"
         },
         "gps": {
-            "lng": -1.355830,
-            "lat": 35.156110
+            "lng": -1.35583,
+            "lat": 35.15611
         }
     },
     {
@@ -4930,8 +5637,8 @@
             "fr": "El Bouihi"
         },
         "gps": {
-            "lng": -1.634440,
-            "lat": 34.239170
+            "lng": -1.63444,
+            "lat": 34.23917
         }
     },
     {
@@ -5047,8 +5754,8 @@
             "fr": "Beni Semiel"
         },
         "gps": {
-            "lng": -1.026670,
-            "lat": 34.816670
+            "lng": -1.02667,
+            "lat": 34.81667
         }
     },
     {
@@ -5152,7 +5859,7 @@
         },
         "gps": {
             "lng": 0.977336,
-            "lat": 35.239120
+            "lat": 35.23912
         }
     },
     {
@@ -5177,8 +5884,8 @@
             "fr": "Zmalet El Emir Aek"
         },
         "gps": {
-            "lng": 2.310000,
-            "lat": 34.893330
+            "lng": 2.31,
+            "lat": 34.89333
         }
     },
     {
@@ -5372,8 +6079,8 @@
             "fr": "Djillali Ben Amar"
         },
         "gps": {
-            "lng": 0.791850,
-            "lat": 35.454720
+            "lng": 0.79185,
+            "lat": 35.45472
         }
     },
     {
@@ -5502,8 +6209,8 @@
             "fr": "Mechraa Safa"
         },
         "gps": {
-            "lng": 1.053330,
-            "lat": 35.383890
+            "lng": 1.05333,
+            "lat": 35.38389
         }
     },
     {
@@ -5593,8 +6300,8 @@
             "fr": "Faidja"
         },
         "gps": {
-            "lng": 1.581110,
-            "lat": 35.192500
+            "lng": 1.58111,
+            "lat": 35.1925
         }
     },
     {
@@ -7361,8 +8068,8 @@
             "fr": "El Khemis"
         },
         "gps": {
-            "lng": 2.595000,
-            "lat": 35.288060
+            "lng": 2.595,
+            "lat": 35.28806
         }
     },
     {
@@ -7543,8 +8250,8 @@
             "fr": "Dar Chouikh"
         },
         "gps": {
-            "lng": 3.466990,
-            "lat": 34.886650
+            "lng": 3.46699,
+            "lat": 34.88665
         }
     },
     {
@@ -7570,7 +8277,7 @@
         },
         "gps": {
             "lng": 2.783333,
-            "lat": 34.466670
+            "lat": 34.46667
         }
     },
     {
@@ -7595,8 +8302,8 @@
             "fr": "Deldoul"
         },
         "gps": {
-            "lng": 3.253060,
-            "lat": 34.205280
+            "lng": 3.25306,
+            "lat": 34.20528
         }
     },
     {
@@ -7647,8 +8354,8 @@
             "fr": "Hassi Fedoul"
         },
         "gps": {
-            "lng": 1.873100,
-            "lat": 35.448190
+            "lng": 1.8731,
+            "lat": 35.44819
         }
     },
     {
@@ -7712,8 +8419,8 @@
             "fr": "Erraguene"
         },
         "gps": {
-            "lng": 5.580560,
-            "lat": 36.586110
+            "lng": 5.58056,
+            "lat": 36.58611
         }
     },
     {
@@ -7933,8 +8640,8 @@
             "fr": "Boussif Ouled Askeur"
         },
         "gps": {
-            "lng": 6.019170,
-            "lat": 36.642780
+            "lng": 6.01917,
+            "lat": 36.64278
         }
     },
     {
@@ -7959,8 +8666,8 @@
             "fr": "Ouled Yahia Khadrouch"
         },
         "gps": {
-            "lng": 6.201390,
-            "lat": 36.717220
+            "lng": 6.20139,
+            "lat": 36.71722
         }
     },
     {
@@ -8024,8 +8731,8 @@
             "fr": "Bordj Taher"
         },
         "gps": {
-            "lng": 6.034170,
-            "lat": 36.746940
+            "lng": 6.03417,
+            "lat": 36.74694
         }
     },
     {
@@ -8055,460 +8762,992 @@
         }
     },
     {
-        "id": "675",
+        "id": 675,
         "code_postal": "19001",
-        "nom": "Setif",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "سطيف‎",
+            "fr": "Setif"
+        },
+        "gps": {
+            "lng": 5.415087100000001,
+            "lat": 36.1969027
+        }
     },
     {
-        "id": "676",
+        "id": 676,
         "code_postal": "19002",
-        "nom": "Ain El Kebira",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "عين الكبيرة",
+            "fr": "Ain El Kebira"
+        },
+        "gps": {
+            "lng": 5.509246999999999,
+            "lat": 36.3637833
+        }
     },
     {
-        "id": "677",
+        "id": 677,
         "code_postal": "19003",
-        "nom": "Beni Aziz",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "بني عزيز",
+            "fr": "Beni Aziz"
+        },
+        "gps": {
+            "lng": 5.656311899999999,
+            "lat": 36.4648323
+        }
     },
     {
-        "id": "678",
+        "id": 678,
         "code_postal": "19004",
-        "nom": "Ouled Sidi Ahmed",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "أولاد سيدي أحمد",
+            "fr": "Ouled Sidi Ahmed"
+        },
+        "gps": {
+            "lng": "5.191670",
+            "lat": "35.901110"
+        }
     },
     {
-        "id": "679",
+        "id": 679,
         "code_postal": "19005",
-        "nom": "Boutaleb",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "بوطالب",
+            "fr": "Boutaleb"
+        },
+        "gps": {
+            "lng": 5.247551800000001,
+            "lat": 35.69207659999999
+        }
     },
     {
-        "id": "680",
+        "id": 680,
         "code_postal": "19006",
-        "nom": "Ain Roua",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "عين الروى",
+            "fr": "Ain Roua"
+        },
+        "gps": {
+            "lng": 5.1953554,
+            "lat": 36.3129898
+        }
     },
     {
-        "id": "681",
+        "id": 681,
         "code_postal": "19007",
-        "nom": "Draa Kebila",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "ذراع قبيلة",
+            "fr": "Draa Kebila"
+        },
+        "gps": {
+            "lng": 4.997393899999999,
+            "lat": 36.4379461
+        }
     },
     {
-        "id": "682",
+        "id": 682,
         "code_postal": "19008",
-        "nom": "Bir El Arch",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "بئر العرش",
+            "fr": "Bir El Arch"
+        },
+        "gps": {
+            "lng": 5.7932008,
+            "lat": 36.1016103
+        }
     },
     {
-        "id": "683",
+        "id": 683,
         "code_postal": "19009",
-        "nom": "Beni Chebana",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "بني شبانة",
+            "fr": "Beni Chebana"
+        },
+        "gps": {
+            "lng": 4.903942400000001,
+            "lat": 36.4764952
+        }
     },
     {
-        "id": "684",
+        "id": 684,
         "code_postal": "19010",
-        "nom": "Ouled Tebben",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "أولاد تبــان",
+            "fr": "Ouled Tebben"
+        },
+        "gps": {
+            "lng": 5.122360800000001,
+            "lat": 35.7845851
+        }
     },
     {
-        "id": "685",
+        "id": 685,
         "code_postal": "19011",
-        "nom": "Hamma",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "حــامة",
+            "fr": "Hamma"
+        },
+        "gps": {
+            "lng": 5.373017600000001,
+            "lat": 35.6865509
+        }
     },
     {
-        "id": "686",
+        "id": 686,
         "code_postal": "19012",
-        "nom": "Maaouia",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "معـاويـة",
+            "fr": "Maaouia"
+        },
+        "gps": {
+            "lng": 5.6983979,
+            "lat": 36.398105
+        }
     },
     {
-        "id": "687",
+        "id": 687,
         "code_postal": "19013",
-        "nom": "Ain Legraj",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "عين لڨراج",
+            "fr": "Ain Legraj"
+        },
+        "gps": {
+            "lng": 4.891024199999999,
+            "lat": 36.4096669
+        }
     },
     {
-        "id": "688",
+        "id": 688,
         "code_postal": "19014",
-        "nom": "Ain Abessa",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "عين عباسـة",
+            "fr": "Ain Abessa"
+        },
+        "gps": {
+            "lng": 5.2893433,
+            "lat": 36.2980641
+        }
     },
     {
-        "id": "689",
+        "id": 689,
         "code_postal": "19015",
-        "nom": "Dehamcha",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "الدهامشة",
+            "fr": "Dehamcha"
+        },
+        "gps": {
+            "lng": 5.624766999999999,
+            "lat": 36.3692058
+        }
     },
     {
-        "id": "690",
+        "id": 690,
         "code_postal": "19016",
-        "nom": "Babor",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "بابور",
+            "fr": "Babor"
+        },
+        "gps": {
+            "lng": 5.498756500000001,
+            "lat": 36.46140159999999
+        }
     },
     {
-        "id": "691",
+        "id": 691,
         "code_postal": "19017",
-        "nom": "Guidjel",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "قجــال",
+            "fr": "Guidjel"
+        },
+        "gps": {
+            "lng": 5.4987565,
+            "lat": 36.0721187
+        }
     },
     {
-        "id": "692",
+        "id": 692,
         "code_postal": "19018",
-        "nom": "Ain Lahdjar",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "عين لحجـر",
+            "fr": "Ain Lahdjar"
+        },
+        "gps": {
+            "lng": 5.541949700000001,
+            "lat": 35.9372791
+        }
     },
     {
-        "id": "693",
+        "id": 693,
         "code_postal": "19019",
-        "nom": "Bousselam",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "بوسلام",
+            "fr": "Bousselam"
+        },
+        "gps": {
+            "lng": 5.007845100000001,
+            "lat": 36.4937653
+        }
     },
     {
-        "id": "694",
+        "id": 694,
         "code_postal": "19020",
-        "nom": "El Eulma",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "العلمة",
+            "fr": "El Eulma"
+        },
+        "gps": {
+            "lng": 5.6983979,
+            "lat": 36.1603006
+        }
     },
     {
-        "id": "695",
+        "id": 695,
         "code_postal": "19021",
-        "nom": "Djemila",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "جميلـة",
+            "fr": "Djemila"
+        },
+        "gps": {
+            "lng": 5.793200800000001,
+            "lat": 36.3179676
+        }
     },
     {
-        "id": "696",
+        "id": 696,
         "code_postal": "19022",
-        "nom": "Beni Ouartilane",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "بني ورتيلان",
+            "fr": "Beni Ouartilane"
+        },
+        "gps": {
+            "lng": 4.852528199999999,
+            "lat": 36.44220550000001
+        }
     },
     {
-        "id": "697",
+        "id": 697,
         "code_postal": "19023",
-        "nom": "Rosfa",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "الرصفة",
+            "fr": "Rosfa"
+        },
+        "gps": {
+            "lng": 5.247551800000001,
+            "lat": 35.7791966
+        }
     },
     {
-        "id": "698",
+        "id": 698,
         "code_postal": "19024",
-        "nom": "Ouled Addouane",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "أولاد عدوان",
+            "fr": "Ouled Addouane"
+        },
+        "gps": {
+            "lng": 5.4672962,
+            "lat": 36.344105
+        }
     },
     {
-        "id": "699",
+        "id": 699,
         "code_postal": "19025",
-        "nom": "Belaa",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "البلاعة",
+            "fr": "Belaa"
+        },
+        "gps": {
+            "lng": 5.8775964,
+            "lat": 36.2273854
+        }
     },
     {
-        "id": "700",
+        "id": 700,
         "code_postal": "19026",
-        "nom": "Ain Arnat",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "عين أرنـات",
+            "fr": "Ain Arnat"
+        },
+        "gps": {
+            "lng": 5.3163224,
+            "lat": 36.1900716
+        }
     },
     {
-        "id": "701",
+        "id": 701,
         "code_postal": "19027",
-        "nom": "Amoucha",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "سطيف‎",
+            "fr": "Amoucha"
+        },
+        "gps": {
+            "lng": 5.4044819,
+            "lat": 36.194583
+        }
     },
     {
-        "id": "702",
+        "id": 702,
         "code_postal": "19028",
-        "nom": "Ain Oulmane",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "عين ولمان",
+            "fr": "Ain Oulmane"
+        },
+        "gps": {
+            "lng": 5.2976288,
+            "lat": 35.9147478
+        }
     },
     {
-        "id": "703",
+        "id": 703,
         "code_postal": "19029",
-        "nom": "Beidha Bordj",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "بيضاء برج",
+            "fr": "Beidha Bordj"
+        },
+        "gps": {
+            "lng": 5.666313000000001,
+            "lat": 35.8941421
+        }
     },
     {
-        "id": "704",
+        "id": 704,
         "code_postal": "19030",
-        "nom": "Bouandas",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "بوعنداس",
+            "fr": "Bouandas"
+        },
+        "gps": {
+            "lng": 5.111940700000001,
+            "lat": 36.5109283
+        }
     },
     {
-        "id": "705",
+        "id": 705,
         "code_postal": "19031",
-        "nom": "Bazer Sakhra",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "بازر الصخرة",
+            "fr": "Bazer Sakhra"
+        },
+        "gps": {
+            "lng": 5.6668306,
+            "lat": 36.0643003
+        }
     },
     {
-        "id": "706",
+        "id": 706,
         "code_postal": "19032",
-        "nom": "Hammam Essokhna",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "حمــام السخنة",
+            "fr": "Hammam Essokhna"
+        },
+        "gps": {
+            "lng": 5.8353837,
+            "lat": 35.96946399999999
+        }
     },
     {
-        "id": "707",
+        "id": 707,
         "code_postal": "19033",
-        "nom": "Mezloug",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "مزلوق",
+            "fr": "Mezloug"
+        },
+        "gps": {
+            "lng": 5.2475518,
+            "lat": 36.08336389999999
+        }
     },
     {
-        "id": "708",
+        "id": 708,
         "code_postal": "19034",
-        "nom": "Bir Haddada",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "بئر حدادة",
+            "fr": "Bir Haddada"
+        },
+        "gps": {
+            "lng": 5.498756500000001,
+            "lat": 35.9853448
+        }
     },
     {
-        "id": "709",
+        "id": 709,
         "code_postal": "19035",
-        "nom": "Serdj El Ghoul",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "سرج الغول",
+            "fr": "Serdj El Ghoul"
+        },
+        "gps": {
+            "lng": 5.593238999999999,
+            "lat": 36.4678015
+        }
     },
     {
-        "id": "710",
+        "id": 710,
         "code_postal": "19036",
-        "nom": "Harbil",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "حربيل",
+            "fr": "Harbil"
+        },
+        "gps": {
+            "lng": 4.9247074,
+            "lat": 36.3460467
+        }
     },
     {
-        "id": "711",
+        "id": 711,
         "code_postal": "19037",
-        "nom": "El Ouricia",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "الأورسية",
+            "fr": "El Ouricia"
+        },
+        "gps": {
+            "lng": 5.414900299999999,
+            "lat": 36.2924521
+        }
     },
     {
-        "id": "712",
+        "id": 712,
         "code_postal": "19038",
-        "nom": "Tizi Nbechar",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "تيزي نبشار",
+            "fr": "Tizi Nbechar"
+        },
+        "gps": {
+            "lng": 5.3625516,
+            "lat": 36.4352238
+        }
     },
     {
-        "id": "713",
+        "id": 713,
         "code_postal": "19039",
-        "nom": "Salah Bey",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "صـالح باي",
+            "fr": "Salah Bey"
+        },
+        "gps": {
+            "lng": 5.373017600000001,
+            "lat": 35.8171868
+        }
     },
     {
-        "id": "714",
+        "id": 714,
         "code_postal": "19040",
-        "nom": "Ain Azal",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "عين أزال",
+            "fr": "Ain Azal"
+        },
+        "gps": {
+            "lng": 5.513395200000001,
+            "lat": 35.81847519999999
+        }
     },
     {
-        "id": "715",
+        "id": 715,
         "code_postal": "19041",
-        "nom": "Guenzet",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "ڨنزات",
+            "fr": "Guenzet"
+        },
+        "gps": {
+            "lng": 4.8209596,
+            "lat": 36.3286473
+        }
     },
     {
-        "id": "716",
+        "id": 716,
         "code_postal": "19042",
-        "nom": "Talaifacene",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "التلة",
+            "fr": "Talaifacene"
+        },
+        "gps": {
+            "lng": 5.7089241,
+            "lat": 35.97554089999999
+        }
     },
     {
-        "id": "717",
+        "id": 717,
         "code_postal": "19043",
-        "nom": "Bougaa",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "بوقاعـة",
+            "fr": "Bougaa"
+        },
+        "gps": {
+            "lng": 5.111940700000001,
+            "lat": 36.3381987
+        }
     },
     {
-        "id": "718",
+        "id": 718,
         "code_postal": "19044",
-        "nom": "Beni Fouda",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "بني فودة",
+            "fr": "Beni Fouda"
+        },
+        "gps": {
+            "lng": 5.5827334,
+            "lat": 36.28474420000001
+        }
     },
     {
-        "id": "719",
+        "id": 719,
         "code_postal": "19045",
-        "nom": "Tachouda",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "تاشودة",
+            "fr": "Tachouda"
+        },
+        "gps": {
+            "lng": 5.740513899999999,
+            "lat": 36.2664729
+        }
     },
     {
-        "id": "720",
+        "id": 720,
         "code_postal": "19046",
-        "nom": "Beni Mouhli",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "إيث موحلي",
+            "fr": "Beni Mouhli"
+        },
+        "gps": {
+            "lng": 4.9096065,
+            "lat": 36.51669589999999
+        }
     },
     {
-        "id": "721",
+        "id": 721,
         "code_postal": "19047",
-        "nom": "Ouled Sabor",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "أولاد صـابر",
+            "fr": "Ouled Sabor"
+        },
+        "gps": {
+            "lng": 5.540729900000001,
+            "lat": 36.1568639
+        }
     },
     {
-        "id": "722",
+        "id": 722,
         "code_postal": "19048",
-        "nom": "Guellal",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "قلال",
+            "fr": "Guellal"
+        },
+        "gps": {
+            "lng": 5.3311652,
+            "lat": 36.0363009
+        }
     },
     {
-        "id": "723",
+        "id": 723,
         "code_postal": "19049",
-        "nom": "Ain Sebt",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "عين السبت",
+            "fr": "Ain Sebt"
+        },
+        "gps": {
+            "lng": 5.719452199999999,
+            "lat": 36.48338989999999
+        }
     },
     {
-        "id": "724",
+        "id": 724,
         "code_postal": "19050",
-        "nom": "Hammam Guergour",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "حمام قرقور",
+            "fr": "Hammam Guergour"
+        },
+        "gps": {
+            "lng": 5.054854400000001,
+            "lat": 36.3222675
+        }
     },
     {
-        "id": "725",
+        "id": 725,
         "code_postal": "19051",
-        "nom": "Ait Naoual Mezada",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "آيت نوال مزادة",
+            "fr": "Ait Naoual Mezada"
+        },
+        "gps": {
+            "lng": "5.090040",
+            "lat": "36.542170"
+        }
     },
     {
-        "id": "726",
+        "id": 726,
         "code_postal": "19052",
-        "nom": "Ksar El Abtal",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "قصرالأبطال",
+            "fr": "Ksar El Abtal"
+        },
+        "gps": {
+            "lng": 5.216228299999999,
+            "lat": 35.9870878
+        }
     },
     {
-        "id": "727",
+        "id": 727,
         "code_postal": "19053",
-        "nom": "Beni Hocine",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "بني حسين",
+            "fr": "Beni Hocine"
+        },
+        "gps": {
+            "lng": 5.1119407,
+            "lat": 36.251687
+        }
     },
     {
-        "id": "728",
+        "id": 728,
         "code_postal": "19054",
-        "nom": "Ait Tizi",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "آيت تيزي",
+            "fr": "Ait Tizi"
+        },
+        "gps": {
+            "lng": 5.1327829,
+            "lat": 36.55315540000001
+        }
     },
     {
-        "id": "729",
+        "id": 729,
         "code_postal": "19055",
-        "nom": "Maouklane",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "موكلان",
+            "fr": "Maouklane"
+        },
+        "gps": {
+            "lng": 5.0769287,
+            "lat": 36.3966491
+        }
     },
     {
-        "id": "730",
+        "id": 730,
         "code_postal": "19056",
-        "nom": "Guelta Zerka",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "القلتة الزرقاء",
+            "fr": "Guelta Zerka"
+        },
+        "gps": {
+            "lng": 5.677351199999999,
+            "lat": 36.20459160000001
+        }
     },
     {
-        "id": "731",
+        "id": 731,
         "code_postal": "19057",
-        "nom": "Oued El Barad",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "واد البارد",
+            "fr": "Oued El Barad"
+        },
+        "gps": {
+            "lng": 5.4253757,
+            "lat": 36.4971074
+        }
     },
     {
-        "id": "732",
+        "id": 732,
         "code_postal": "19058",
-        "nom": "Taya",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "طاية",
+            "fr": "Taya"
+        },
+        "gps": {
+            "lng": 5.966530300000001,
+            "lat": 35.959337
+        }
     },
     {
-        "id": "733",
+        "id": 733,
         "code_postal": "19059",
-        "nom": "El Ouldja",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "الولجـة",
+            "fr": "El Ouldja"
+        },
+        "gps": {
+            "lng": 5.9198387,
+            "lat": 36.0520855
+        }
     },
     {
-        "id": "734",
+        "id": 734,
         "code_postal": "19060",
-        "nom": "Tella",
-        "wilaya_id": "19"
+        "wilaya_id": "19",
+        "nom": {
+            "ar": "التلة",
+            "fr": "Tella"
+        },
+        "gps": {
+            "lng": 5.7089241,
+            "lat": 35.97554089999999
+        }
     },
     {
-        "id": "735",
+        "id": 735,
         "code_postal": "20001",
-        "nom": "Saida",
-        "wilaya_id": "20"
+        "wilaya_id": "20",
+        "nom": {
+            "ar": "سعيدة",
+            "fr": "Saida"
+        },
+        "gps": {
+            "lng": 0.1461237,
+            "lat": 34.85103830000001
+        }
     },
     {
-        "id": "736",
+        "id": 736,
         "code_postal": "20002",
-        "nom": "Doui Thabet",
-        "wilaya_id": "20"
+        "wilaya_id": "20",
+        "nom": {
+            "ar": "دوى ثابت",
+            "fr": "Doui Thabet"
+        },
+        "gps": {
+            "lng": -0.07350880000000001,
+            "lat": 34.8941184
+        }
     },
     {
-        "id": "737",
+        "id": 737,
         "code_postal": "20003",
-        "nom": "Ain El Hadjar",
-        "wilaya_id": "20"
+        "wilaya_id": "20",
+        "nom": {
+            "ar": "عين الحجر",
+            "fr": "Ain El Hadjar"
+        },
+        "gps": {
+            "lng": 0.15418,
+            "lat": 34.7574087
+        }
     },
     {
-        "id": "738",
+        "id": 738,
         "code_postal": "20004",
-        "nom": "Ouled Khaled",
-        "wilaya_id": "20"
+        "wilaya_id": "20",
+        "nom": {
+            "ar": "أولاد خالد",
+            "fr": "Ouled Khaled"
+        },
+        "gps": {
+            "lng": "0.152778",
+            "lat": "34.876700"
+        }
     },
     {
-        "id": "739",
+        "id": 739,
         "code_postal": "20005",
-        "nom": "Moulay Larbi",
-        "wilaya_id": "20"
+        "wilaya_id": "20",
+        "nom": {
+            "ar": "مولاي العربي",
+            "fr": "Moulay Larbi"
+        },
+        "gps": {
+            "lng": 0.0116586,
+            "lat": 34.6497005
+        }
     },
     {
-        "id": "740",
+        "id": 740,
         "code_postal": "20006",
-        "nom": "Youb",
-        "wilaya_id": "20"
+        "wilaya_id": "20",
+        "nom": {
+            "ar": "يوب",
+            "fr": "Youb"
+        },
+        "gps": {
+            "lng": -0.2080547,
+            "lat": 34.92016100000001
+        }
     },
     {
-        "id": "741",
+        "id": 741,
         "code_postal": "20007",
-        "nom": "Hounet",
-        "wilaya_id": "20"
+        "wilaya_id": "20",
+        "nom": {
+            "ar": "حونت",
+            "fr": "Hounet"
+        },
+        "gps": {
+            "lng": "0.128330",
+            "lat": "35.116390"
+        }
     },
     {
-        "id": "742",
+        "id": 742,
         "code_postal": "20008",
-        "nom": "Sidi Amar",
-        "wilaya_id": "20"
+        "wilaya_id": "20",
+        "nom": {
+            "ar": "يدي عمر",
+            "fr": "Sidi Amar"
+        },
+        "gps": {
+            "lng": 0.1097315,
+            "lat": 35.0249991
+        }
     },
     {
-        "id": "743",
+        "id": 743,
         "code_postal": "20009",
-        "nom": "Sidi Boubekeur",
-        "wilaya_id": "20"
+        "wilaya_id": "20",
+        "nom": {
+            "ar": "مفتاح سيدي بوبكر",
+            "fr": "Sidi Boubekeur"
+        },
+        "gps": {
+            "lng": 0.0536592,
+            "lat": 35.0305441
+        }
     },
     {
-        "id": "744",
+        "id": 744,
         "code_postal": "20010",
-        "nom": "El Hassasna",
-        "wilaya_id": "20"
+        "wilaya_id": "20",
+        "nom": {
+            "ar": "حساسنة",
+            "fr": "El Hassasna"
+        },
+        "gps": {
+            "lng": 0.3301342,
+            "lat": 34.8260947
+        }
     },
     {
-        "id": "745",
+        "id": 745,
         "code_postal": "20011",
-        "nom": "Maamora",
-        "wilaya_id": "20"
+        "wilaya_id": "20",
+        "nom": {
+            "ar": "معمورة",
+            "fr": "Maamora"
+        },
+        "gps": {
+            "lng": 0.4997973000000001,
+            "lat": 34.6818661
+        }
     },
     {
-        "id": "746",
+        "id": 746,
         "code_postal": "20012",
-        "nom": "Sidi Ahmed",
-        "wilaya_id": "20"
+        "wilaya_id": "20",
+        "nom": {
+            "ar": "سيدي أحمد",
+            "fr": "Sidi Ahmed"
+        },
+        "gps": {
+            "lng": 0.2596569999999999,
+            "lat": 34.54979479999999
+        }
     },
     {
-        "id": "747",
+        "id": 747,
         "code_postal": "20013",
-        "nom": "Ain Sekhouna",
-        "wilaya_id": "20"
+        "wilaya_id": "20",
+        "nom": {
+            "ar": "'Ain Skhouna",
+            "fr": "Ain Sekhouna"
+        },
+        "gps": {
+            "lng": 0.8441666999999999,
+            "lat": 34.50444439999999
+        }
     },
     {
-        "id": "748",
+        "id": 748,
         "code_postal": "20014",
-        "nom": "Ouled Brahim",
-        "wilaya_id": "20"
+        "wilaya_id": "20",
+        "nom": {
+            "ar": "أولاد إبراهيم",
+            "fr": "Ouled Brahim"
+        },
+        "gps": {
+            "lng": "2.933548",
+            "lat": "36.244484"
+        }
     },
     {
-        "id": "749",
+        "id": 749,
         "code_postal": "20015",
-        "nom": "Tircine",
-        "wilaya_id": "20"
+        "wilaya_id": "20",
+        "nom": {
+            "ar": "تيرسين",
+            "fr": "Tircine"
+        },
+        "gps": {
+            "lng": 0.5529666,
+            "lat": 34.90116219999999
+        }
     },
     {
-        "id": "750",
+        "id": 750,
         "code_postal": "20016",
-        "nom": "Ain Soltane",
-        "wilaya_id": "20"
+        "wilaya_id": "20",
+        "nom": {
+            "ar": "عين سلطان",
+            "fr": "Ain Soltane"
+        },
+        "gps": {
+            "lng": "4.733379",
+            "lat": "36.133048"
+        }
     },
     {
         "id": 751,
@@ -8675,8 +9914,8 @@
             "fr": "Ouled Attia"
         },
         "gps": {
-            "lng": 2.167000,
-            "lat": 35.533000
+            "lng": 2.167,
+            "lat": 35.533
         }
     },
     {
@@ -8883,7 +10122,7 @@
             "fr": "Beni Ouelbane"
         },
         "gps": {
-            "lng": 6.635500,
+            "lng": 6.6355,
             "lat": 36.628432
         }
     },
@@ -8948,8 +10187,8 @@
             "fr": "Bouchtata"
         },
         "gps": {
-            "lng": 6.797220,
-            "lat": 36.792500
+            "lng": 6.79722,
+            "lat": 36.7925
         }
     },
     {
@@ -8961,8 +10200,8 @@
             "fr": "Ouldja Boulbalout"
         },
         "gps": {
-            "lng": 6.373060,
-            "lat": 36.786110
+            "lng": 6.37306,
+            "lat": 36.78611
         }
     },
     {
@@ -8974,8 +10213,8 @@
             "fr": "Kheneg Mayoum"
         },
         "gps": {
-            "lng": 6.284170,
-            "lat": 37.008330
+            "lng": 6.28417,
+            "lat": 37.00833
         }
     },
     {
@@ -9005,316 +10244,680 @@
         }
     },
     {
-        "id": "789",
+        "id": 789,
         "code_postal": "22001",
-        "nom": "Sidi Bel Abbes",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "سيدي بلعباس‎",
+            "fr": "Sidi Bel Abbes"
+        },
+        "gps": {
+            "lng": -0.6298922000000002,
+            "lat": 35.2022249
+        }
     },
     {
-        "id": "790",
+        "id": 790,
         "code_postal": "22002",
-        "nom": "Tessala",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "تسالة",
+            "fr": "Tessala"
+        },
+        "gps": {
+            "lng": -0.7818088999999999,
+            "lat": 35.2672655
+        }
     },
     {
-        "id": "791",
+        "id": 791,
         "code_postal": "22003",
-        "nom": "Sidi Brahim",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "سيدي ابراهيم",
+            "fr": "Sidi Brahim"
+        },
+        "gps": {
+            "lng": -0.5730713000000001,
+            "lat": 35.268429
+        }
     },
     {
-        "id": "792",
+        "id": 792,
         "code_postal": "22004",
-        "nom": "Mostefa Ben Brahim",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "مصطفى بن ابراهيم",
+            "fr": "Mostefa Ben Brahim"
+        },
+        "gps": {
+            "lng": -0.3594349999999999,
+            "lat": 35.19256419999999
+        }
     },
     {
-        "id": "793",
+        "id": 793,
         "code_postal": "22005",
-        "nom": "Telagh",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "تلاغ",
+            "fr": "Telagh"
+        },
+        "gps": {
+            "lng": -0.5446911999999998,
+            "lat": 34.7949589
+        }
     },
     {
-        "id": "794",
+        "id": 794,
         "code_postal": "22006",
-        "nom": "Mezaourou",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "مزاورو",
+            "fr": "Mezaourou"
+        },
+        "gps": {
+            "lng": -0.658333,
+            "lat": 34.8385674
+        }
     },
     {
-        "id": "795",
+        "id": 795,
         "code_postal": "22007",
-        "nom": "Boukhanafis",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "بوخنفيس",
+            "fr": "Boukhanafis"
+        },
+        "gps": {
+            "lng": -0.6962853,
+            "lat": 35.05885110000001
+        }
     },
     {
-        "id": "796",
+        "id": 796,
         "code_postal": "22008",
-        "nom": "Sidi Ali Boussidi",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "سيدي علي بوسيدي",
+            "fr": "Sidi Ali Boussidi"
+        },
+        "gps": {
+            "lng": -0.8336503999999999,
+            "lat": 35.10363179999999
+        }
     },
     {
-        "id": "797",
+        "id": 797,
         "code_postal": "22009",
-        "nom": "Badredine El Mokrani",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "بدر الدين المقراني",
+            "fr": "Badredine El Mokrani"
+        },
+        "gps": {
+            "lng": -0.8496434,
+            "lat": 35.0096949
+        }
     },
     {
-        "id": "798",
+        "id": 798,
         "code_postal": "22010",
-        "nom": "Marhoum",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "مرحوم",
+            "fr": "Marhoum"
+        },
+        "gps": {
+            "lng": -0.1939932,
+            "lat": 34.44462660000001
+        }
     },
     {
-        "id": "799",
+        "id": 799,
         "code_postal": "22011",
-        "nom": "Tafissour",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "تفسور",
+            "fr": "Tafissour"
+        },
+        "gps": {
+            "lng": -0.2021951,
+            "lat": 34.6923957
+        }
     },
     {
-        "id": "800",
+        "id": 800,
         "code_postal": "22012",
-        "nom": "Amarnas",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "العمارنة",
+            "fr": "Amarnas"
+        },
+        "gps": {
+            "lng": -0.610943,
+            "lat": 35.0923336
+        }
     },
     {
-        "id": "801",
+        "id": 801,
         "code_postal": "22013",
-        "nom": "Tilmouni",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "تلموني",
+            "fr": "Tilmouni"
+        },
+        "gps": {
+            "lng": -0.5352355999999998,
+            "lat": 35.18069219999999
+        }
     },
     {
-        "id": "802",
+        "id": 802,
         "code_postal": "22014",
-        "nom": "Sidi Lahcene",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "سيدي لحسن",
+            "fr": "Sidi Lahcene"
+        },
+        "gps": {
+            "lng": -0.7247730000000001,
+            "lat": 35.2016965
+        }
     },
     {
-        "id": "803",
+        "id": 803,
         "code_postal": "22015",
-        "nom": "Ain Thrid",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "عين التريد",
+            "fr": "Ain Thrid"
+        },
+        "gps": {
+            "lng": -0.6755257000000001,
+            "lat": 35.2850615
+        }
     },
     {
-        "id": "804",
+        "id": 804,
         "code_postal": "22016",
-        "nom": "Makedra",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "مقيدرة",
+            "fr": "Makedra"
+        },
+        "gps": {
+            "lng": "-0.431390",
+            "lat": "35.440830"
+        }
     },
     {
-        "id": "805",
+        "id": 805,
         "code_postal": "22017",
-        "nom": "Tenira",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "تنيرة",
+            "fr": "Tenira"
+        },
+        "gps": {
+            "lng": -0.5068824,
+            "lat": 35.01573289999999
+        }
     },
     {
-        "id": "806",
+        "id": 806,
         "code_postal": "22018",
-        "nom": "Moulay Slissen",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "مولاي سليسن",
+            "fr": "Moulay Slissen"
+        },
+        "gps": {
+            "lng": -0.7604110000000001,
+            "lat": 34.824175
+        }
     },
     {
-        "id": "807",
+        "id": 807,
         "code_postal": "22019",
-        "nom": "El Hacaiba",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "الحسيبة",
+            "fr": "El Hacaiba"
+        },
+        "gps": {
+            "lng": "-0.760171",
+            "lat": "34.705225"
+        }
     },
     {
-        "id": "808",
+        "id": 808,
         "code_postal": "22020",
-        "nom": "Hassi Zehana",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "حاسي زهانة",
+            "fr": "Hassi Zehana"
+        },
+        "gps": {
+            "lng": -0.8889678000000001,
+            "lat": 35.0273144
+        }
     },
     {
-        "id": "809",
+        "id": 809,
         "code_postal": "22021",
-        "nom": "Tabia",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "طابية",
+            "fr": "Tabia"
+        },
+        "gps": {
+            "lng": -0.7437760999999999,
+            "lat": 35.0255332
+        }
     },
     {
-        "id": "810",
+        "id": 810,
         "code_postal": "22022",
-        "nom": "Merine",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "مرين",
+            "fr": "Merine"
+        },
+        "gps": {
+            "lng": -0.4478783000000001,
+            "lat": 34.7815446
+        }
     },
     {
-        "id": "811",
+        "id": 811,
         "code_postal": "22023",
-        "nom": "Ras El Ma",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "رأس الماء",
+            "fr": "Ras El Ma"
+        },
+        "gps": {
+            "lng": -0.8055975999999999,
+            "lat": 34.5003381
+        }
     },
     {
-        "id": "812",
+        "id": 812,
         "code_postal": "22024",
-        "nom": "Ain Tindamine",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "عين تندامين",
+            "fr": "Ain Tindamine"
+        },
+        "gps": {
+            "lng": -0.721211,
+            "lat": 34.6876739
+        }
     },
     {
-        "id": "813",
+        "id": 813,
         "code_postal": "22025",
-        "nom": "Ain Kada",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "عين قادة",
+            "fr": "Ain Kada"
+        },
+        "gps": {
+            "lng": -0.8567905000000001,
+            "lat": 35.136239
+        }
     },
     {
-        "id": "814",
+        "id": 814,
         "code_postal": "22026",
-        "nom": "Mcid",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "مسيد",
+            "fr": "Mcid"
+        },
+        "gps": {
+            "lng": -0.2469943999999999,
+            "lat": 35.1386244
+        }
     },
     {
-        "id": "815",
+        "id": 815,
         "code_postal": "22027",
-        "nom": "Sidi Khaled",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "سيدي خالد",
+            "fr": "Sidi Khaled"
+        },
+        "gps": {
+            "lng": -0.6678176999999998,
+            "lat": 35.1140441
+        }
     },
     {
-        "id": "816",
+        "id": 816,
         "code_postal": "22028",
-        "nom": "Ain El Berd",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "عين البرد",
+            "fr": "Ain El Berd"
+        },
+        "gps": {
+            "lng": -0.5068824000000001,
+            "lat": 35.3675096
+        }
     },
     {
-        "id": "817",
+        "id": 817,
         "code_postal": "22029",
-        "nom": "Sfissef",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "سفيزف",
+            "fr": "Sfissef"
+        },
+        "gps": {
+            "lng": -0.2807868000000001,
+            "lat": 35.2365004
+        }
     },
     {
-        "id": "818",
+        "id": 818,
         "code_postal": "22030",
-        "nom": "Ain Adden",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "عين عدان",
+            "fr": "Ain Adden"
+        },
+        "gps": {
+            "lng": -0.2608306,
+            "lat": 35.3285126
+        }
     },
     {
-        "id": "819",
+        "id": 819,
         "code_postal": "22031",
-        "nom": "Oued Taourira",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "واد تاوريرة",
+            "fr": "Oued Taourira"
+        },
+        "gps": {
+            "lng": -0.3266073,
+            "lat": 34.80263869999999
+        }
     },
     {
-        "id": "820",
+        "id": 820,
         "code_postal": "22032",
-        "nom": "Dhaya",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "الظاية",
+            "fr": "Dhaya"
+        },
+        "gps": {
+            "lng": -0.6216008000000001,
+            "lat": 34.6743959
+        }
     },
     {
-        "id": "821",
+        "id": 821,
         "code_postal": "22033",
-        "nom": "Zerouala",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "زروالة",
+            "fr": "Zerouala"
+        },
+        "gps": {
+            "lng": -0.5237735,
+            "lat": 35.2413225
+        }
     },
     {
-        "id": "822",
+        "id": 822,
         "code_postal": "22034",
-        "nom": "Lamtar",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "لمطار",
+            "fr": "Lamtar"
+        },
+        "gps": {
+            "lng": -0.7989959999999999,
+            "lat": 35.071492
+        }
     },
     {
-        "id": "823",
+        "id": 823,
         "code_postal": "22035",
-        "nom": "Sidi Chaib",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "سيدي شعيب",
+            "fr": "Sidi Chaib"
+        },
+        "gps": {
+            "lng": -0.5470554,
+            "lat": 34.5931437
+        }
     },
     {
-        "id": "824",
+        "id": 824,
         "code_postal": "22036",
-        "nom": "Sidi Dahou Dezairs",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "سيدي دحو دزاير",
+            "fr": "Sidi Dahou Dezairs"
+        },
+        "gps": {
+            "lng": "-0.640975",
+            "lat": "35,191092"
+        }
     },
     {
-        "id": "825",
+        "id": 825,
         "code_postal": "22037",
-        "nom": "Oued Sbaa",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "واد السبع",
+            "fr": "Oued Sbaa"
+        },
+        "gps": {
+            "lng": -0.7084642,
+            "lat": 34.5871725
+        }
     },
     {
-        "id": "826",
+        "id": 826,
         "code_postal": "22038",
-        "nom": "Boudjebaa El Bordj",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "بوجبع البرج",
+            "fr": "Boudjebaa El Bordj"
+        },
+        "gps": {
+            "lng": "-0.324720",
+            "lat": "35.351390"
+        }
     },
     {
-        "id": "827",
+        "id": 827,
         "code_postal": "22039",
-        "nom": "Sehala Thaoura",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "سهالة الثورة",
+            "fr": "Sehala Thaoura"
+        },
+        "gps": {
+            "lng": -0.8579818000000001,
+            "lat": 35.2228096
+        }
     },
     {
-        "id": "828",
+        "id": 828,
         "code_postal": "22040",
-        "nom": "Sidi Yacoub",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "سيدي يعقوب",
+            "fr": "Sidi Yacoub"
+        },
+        "gps": {
+            "lng": -0.7770528999999999,
+            "lat": 35.1518977
+        }
     },
     {
-        "id": "829",
+        "id": 829,
         "code_postal": "22041",
-        "nom": "Sidi Hamadouche",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "سيدي حمادوش",
+            "fr": "Sidi Hamadouche"
+        },
+        "gps": {
+            "lng": -0.5163312000000001,
+            "lat": 35.3126031
+        }
     },
     {
-        "id": "830",
+        "id": 830,
         "code_postal": "22042",
-        "nom": "Belarbi",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "بلعربي",
+            "fr": "Belarbi"
+        },
+        "gps": {
+            "lng": -0.4408037,
+            "lat": 35.1370812
+        }
     },
     {
-        "id": "831",
+        "id": 831,
         "code_postal": "22043",
-        "nom": "Oued Sefioun",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "واد سفيون",
+            "fr": "Oued Sefioun"
+        },
+        "gps": {
+            "lng": "-0.093330",
+            "lat": "34.996110"
+        }
     },
     {
-        "id": "832",
+        "id": 832,
         "code_postal": "22044",
-        "nom": "Teghalimet",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "تغاليمت",
+            "fr": "Teghalimet"
+        },
+        "gps": {
+            "lng": -0.5517843000000001,
+            "lat": 34.8859984
+        }
     },
     {
-        "id": "833",
+        "id": 833,
         "code_postal": "22045",
-        "nom": "Ben Badis",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "ابن باديس",
+            "fr": "Ben Badis"
+        },
+        "gps": {
+            "lng": -0.8961217,
+            "lat": 34.9363466
+        }
     },
     {
-        "id": "834",
+        "id": 834,
         "code_postal": "22046",
-        "nom": "Sidi Ali Benyoub",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "سيدي علي بن يوب",
+            "fr": "Sidi Ali Benyoub"
+        },
+        "gps": {
+            "lng": -0.7342734,
+            "lat": 34.9264009
+        }
     },
     {
-        "id": "835",
+        "id": 835,
         "code_postal": "22047",
-        "nom": "Chetouane Belaila",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "شطوان بلايلة",
+            "fr": "Chetouane Belaila"
+        },
+        "gps": {
+            "lng": -0.8365437,
+            "lat": 34.95055099999999
+        }
     },
     {
-        "id": "836",
+        "id": 836,
         "code_postal": "22048",
-        "nom": "Bir El Hammam",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "بئر الحمام",
+            "fr": "Bir El Hammam"
+        },
+        "gps": {
+            "lng": -0.5009781,
+            "lat": 34.4174164
+        }
     },
     {
-        "id": "837",
+        "id": 837,
         "code_postal": "22049",
-        "nom": "Taoudmout",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "تاودموت",
+            "fr": "Taoudmout"
+        },
+        "gps": {
+            "lng": -0.1144079,
+            "lat": 34.5887754
+        }
     },
     {
-        "id": "838",
+        "id": 838,
         "code_postal": "22050",
-        "nom": "Redjem Demouche",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "رجم دموش",
+            "fr": "Redjem Demouche"
+        },
+        "gps": {
+            "lng": -0.8091670999999999,
+            "lat": 34.4268654
+        }
     },
     {
-        "id": "839",
+        "id": 839,
         "code_postal": "22051",
-        "nom": "Benachiba Chelia",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "بن شيبة شلية",
+            "fr": "Benachiba Chelia"
+        },
+        "gps": {
+            "lng": "-0.614500",
+            "lat": "34.963400"
+        }
     },
     {
-        "id": "840",
+        "id": 840,
         "code_postal": "22052",
-        "nom": "Hassi Dahou",
-        "wilaya_id": "22"
+        "wilaya_id": "22",
+        "nom": {
+            "ar": "حاسي دحو",
+            "fr": "Hassi Dahou"
+        },
+        "gps": {
+            "lng": -0.5446911999999999,
+            "lat": 35.1036532
+        }
     },
     {
         "id": 841,
@@ -9715,8 +11318,8 @@
             "fr": "Hammam Maskhoutine"
         },
         "gps": {
-            "lng": 7.263700,
-            "lat": 36.461300
+            "lng": 7.2637,
+            "lat": 36.4613
         }
     },
     {
@@ -10071,388 +11674,836 @@
         }
     },
     {
-        "id": "899",
+        "id": 899,
         "code_postal": "26001",
-        "nom": "Medea",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "المدية‎",
+            "fr": "Medea"
+        },
+        "gps": {
+            "lng": 2.7680247,
+            "lat": 36.2853847
+        }
     },
     {
-        "id": "900",
+        "id": 900,
         "code_postal": "26002",
-        "nom": "Ouzera",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "وزرة",
+            "fr": "Ouzera"
+        },
+        "gps": {
+            "lng": 2.8463103,
+            "lat": 36.252581
+        }
     },
     {
-        "id": "901",
+        "id": 901,
         "code_postal": "26003",
-        "nom": "Ouled Maaref",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "أولاد معرف",
+            "fr": "Ouled Maaref"
+        },
+        "gps": {
+            "lng": 3.0776568,
+            "lat": 35.7669488
+        }
     },
     {
-        "id": "902",
+        "id": 902,
         "code_postal": "26004",
-        "nom": "Ain Boucif",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "عين بوسيف",
+            "fr": "Ain Boucif"
+        },
+        "gps": {
+            "lng": 3.1578875,
+            "lat": 35.85207020000001
+        }
     },
     {
-        "id": "903",
+        "id": 903,
         "code_postal": "26005",
-        "nom": "Aissaouia",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "العيساوية",
+            "fr": "Aissaouia"
+        },
+        "gps": {
+            "lng": 3.228198299999999,
+            "lat": 36.403785
+        }
     },
     {
-        "id": "904",
+        "id": 904,
         "code_postal": "26006",
-        "nom": "Ouled Deide",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "أولاد دايد",
+            "fr": "Ouled Deide"
+        },
+        "gps": {
+            "lng": 3.0375914,
+            "lat": 36.1161743
+        }
     },
     {
-        "id": "905",
+        "id": 905,
         "code_postal": "26007",
-        "nom": "El Omaria",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "العمارية",
+            "fr": "El Omaria"
+        },
+        "gps": {
+            "lng": 3.0245978,
+            "lat": 36.2672156
+        }
     },
     {
-        "id": "906",
+        "id": 906,
         "code_postal": "26008",
-        "nom": "Derrag",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "دراڨ",
+            "fr": "Derrag"
+        },
+        "gps": {
+            "lng": 2.3881368,
+            "lat": 35.9080275
+        }
     },
     {
-        "id": "907",
+        "id": 907,
         "code_postal": "26009",
-        "nom": "El Guelbelkebir",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "القلب الكبير",
+            "fr": "El Guelbelkebir"
+        },
+        "gps": {
+            "lng": 3.4094629,
+            "lat": 36.2472045
+        }
     },
     {
-        "id": "908",
+        "id": 908,
         "code_postal": "26010",
-        "nom": "Bouaiche",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "بوعيش",
+            "fr": "Bouaiche"
+        },
+        "gps": {
+            "lng": 2.341887,
+            "lat": 35.5868879
+        }
     },
     {
-        "id": "909",
+        "id": 909,
         "code_postal": "26011",
-        "nom": "Mezerena",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "مزرينة",
+            "fr": "Mezerena"
+        },
+        "gps": {
+            "lng": "2.747940",
+            "lat": "36.266720"
+        }
     },
     {
-        "id": "910",
+        "id": 910,
         "code_postal": "26012",
-        "nom": "Ouled Brahim",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "أولاد إبراهيم",
+            "fr": "Ouled Brahim"
+        },
+        "gps": {
+            "lng": 2.9675572,
+            "lat": 36.2155805
+        }
     },
     {
-        "id": "911",
+        "id": 911,
         "code_postal": "26013",
-        "nom": "Damiat",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "داميات",
+            "fr": "Damiat"
+        },
+        "gps": {
+            "lng": "2.747977",
+            "lat": "36.266721"
+        }
     },
     {
-        "id": "912",
+        "id": 912,
         "code_postal": "26014",
-        "nom": "Sidi Ziane",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "سيدي زيان",
+            "fr": "Sidi Ziane"
+        },
+        "gps": {
+            "lng": 3.2483058,
+            "lat": 36.034631
+        }
     },
     {
-        "id": "913",
+        "id": 913,
         "code_postal": "26015",
-        "nom": "Tamesguida",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "تمزڨيدة",
+            "fr": "Tamesguida"
+        },
+        "gps": {
+            "lng": 2.6685736,
+            "lat": 36.3309673
+        }
     },
     {
-        "id": "914",
+        "id": 914,
         "code_postal": "26016",
-        "nom": "El Hamdania",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "الحمدانية",
+            "fr": "El Hamdania"
+        },
+        "gps": {
+            "lng": 2.8776638,
+            "lat": 36.3369617
+        }
     },
     {
-        "id": "915",
+        "id": 915,
         "code_postal": "26017",
-        "nom": "Kef Lakhdar",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "الكاف الأخضر",
+            "fr": "Kef Lakhdar"
+        },
+        "gps": {
+            "lng": 3.238251,
+            "lat": 35.9370344
+        }
     },
     {
-        "id": "916",
+        "id": 916,
         "code_postal": "26018",
-        "nom": "Chelalet El Adhaoura",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "شلالات الضورة",
+            "fr": "Chelalet El Adhaoura"
+        },
+        "gps": {
+            "lng": "3.413890",
+            "lat": "35.940280"
+        }
     },
     {
-        "id": "917",
+        "id": 917,
         "code_postal": "26019",
-        "nom": "Bouskene",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "بوسكن",
+            "fr": "Bouskene"
+        },
+        "gps": {
+            "lng": 3.1980527,
+            "lat": 36.1554282
+        }
     },
     {
-        "id": "918",
+        "id": 918,
         "code_postal": "26020",
-        "nom": "Rebaia",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "الربعية",
+            "fr": "Rebaia"
+        },
+        "gps": {
+            "lng": 3.1177555,
+            "lat": 36.0272162
+        }
     },
     {
-        "id": "919",
+        "id": 919,
         "code_postal": "26021",
-        "nom": "Bouchrahil",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "بوشراحيل",
+            "fr": "Bouchrahil"
+        },
+        "gps": {
+            "lng": 3.1578875,
+            "lat": 36.2865922
+        }
     },
     {
-        "id": "920",
+        "id": 920,
         "code_postal": "26022",
-        "nom": "Ouled Hellal",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "أولاد هلال",
+            "fr": "Ouled Hellal"
+        },
+        "gps": {
+            "lng": 2.4980197,
+            "lat": 35.9370104
+        }
     },
     {
-        "id": "921",
+        "id": 921,
         "code_postal": "26023",
-        "nom": "Tafraout",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "تافراوت",
+            "fr": "Tafraout"
+        },
+        "gps": {
+            "lng": 3.318746999999999,
+            "lat": 35.978354
+        }
     },
     {
-        "id": "922",
+        "id": 922,
         "code_postal": "26024",
-        "nom": "Baata",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "بعطة",
+            "fr": "Baata"
+        },
+        "gps": {
+            "lng": 3.1177555,
+            "lat": 36.3742549
+        }
     },
     {
-        "id": "923",
+        "id": 923,
         "code_postal": "26025",
-        "nom": "Boghar",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "بوغار",
+            "fr": "Boghar"
+        },
+        "gps": {
+            "lng": 2.7182728,
+            "lat": 35.9498907
+        }
     },
     {
-        "id": "924",
+        "id": 924,
         "code_postal": "26026",
-        "nom": "Sidi Naamane",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "سيدي نعمان",
+            "fr": "Sidi Naamane"
+        },
+        "gps": {
+            "lng": 3.0876783,
+            "lat": 36.2559141
+        }
     },
     {
-        "id": "925",
+        "id": 925,
         "code_postal": "26027",
-        "nom": "Ouled Bouachra",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "أولاد بوعشرة",
+            "fr": "Ouled Bouachra"
+        },
+        "gps": {
+            "lng": 2.7083287,
+            "lat": 36.0914607
+        }
     },
     {
-        "id": "926",
+        "id": 926,
         "code_postal": "26028",
-        "nom": "Sidi Zahar",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "سيدي زهار",
+            "fr": "Sidi Zahar"
+        },
+        "gps": {
+            "lng": 3.3317554,
+            "lat": 36.0683421
+        }
     },
     {
-        "id": "927",
+        "id": 927,
         "code_postal": "26029",
-        "nom": "Oued Harbil",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "وادي حربيل",
+            "fr": "Oued Harbil"
+        },
+        "gps": {
+            "lng": 2.6487087,
+            "lat": 36.2447225
+        }
     },
     {
-        "id": "928",
+        "id": 928,
         "code_postal": "26030",
-        "nom": "Benchicao",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "بن شكاو",
+            "fr": "Benchicao"
+        },
+        "gps": {
+            "lng": 2.847737,
+            "lat": 36.1967899
+        }
     },
     {
-        "id": "929",
+        "id": 929,
         "code_postal": "26031",
-        "nom": "Sidi Damed",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "سيدي دامد",
+            "fr": "Sidi Damed"
+        },
+        "gps": {
+            "lng": 3.318746999999999,
+            "lat": 35.8041669
+        }
     },
     {
-        "id": "930",
+        "id": 930,
         "code_postal": "26032",
-        "nom": "Aziz",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "عزيز",
+            "fr": "Aziz"
+        },
+        "gps": {
+            "lng": 2.4999918,
+            "lat": 35.758478
+        }
     },
     {
-        "id": "931",
+        "id": 931,
         "code_postal": "26033",
-        "nom": "Souagui",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "السواڨي",
+            "fr": "Souagui"
+        },
+        "gps": {
+            "lng": 3.2483058,
+            "lat": 36.1215213
+        }
     },
     {
-        "id": "932",
+        "id": 932,
         "code_postal": "26034",
-        "nom": "Zoubiria",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "الزبيرية",
+            "fr": "Zoubiria"
+        },
+        "gps": {
+            "lng": 2.8377656,
+            "lat": 36.07761300000001
+        }
     },
     {
-        "id": "933",
+        "id": 933,
         "code_postal": "26035",
-        "nom": "Ksar El Boukhari",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "قصر البخاري",
+            "fr": "Ksar El Boukhari"
+        },
+        "gps": {
+            "lng": 2.7481176,
+            "lat": 35.8729994
+        }
     },
     {
-        "id": "934",
+        "id": 934,
         "code_postal": "26036",
-        "nom": "El Azizia",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "العزيزية",
+            "fr": "El Azizia"
+        },
+        "gps": {
+            "lng": 3.490239099999999,
+            "lat": 36.3098718
+        }
     },
     {
-        "id": "935",
+        "id": 935,
         "code_postal": "26037",
-        "nom": "Djouab",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "جواب",
+            "fr": "Djouab"
+        },
+        "gps": {
+            "lng": 3.4278338,
+            "lat": 36.13812850000001
+        }
     },
     {
-        "id": "936",
+        "id": 936,
         "code_postal": "26038",
-        "nom": "Chahbounia",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "الشهبونية",
+            "fr": "Chahbounia"
+        },
+        "gps": {
+            "lng": 2.5792482,
+            "lat": 35.582061
+        }
     },
     {
-        "id": "937",
+        "id": 937,
         "code_postal": "26039",
-        "nom": "Meghraoua",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "مغراوة",
+            "fr": "Meghraoua"
+        },
+        "gps": {
+            "lng": 3.5306765,
+            "lat": 36.37362139999999
+        }
     },
     {
-        "id": "938",
+        "id": 938,
         "code_postal": "26040",
-        "nom": "Cheniguel",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "شنيڨل",
+            "fr": "Cheniguel"
+        },
+        "gps": {
+            "lng": 3.566700599999999,
+            "lat": 35.9225813
+        }
     },
     {
-        "id": "939",
+        "id": 939,
         "code_postal": "26041",
-        "nom": "Ain Ouksir",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "عين القصير",
+            "fr": "Ain Ouksir"
+        },
+        "gps": {
+            "lng": 3.4701398,
+            "lat": 35.8528084
+        }
     },
     {
-        "id": "940",
+        "id": 940,
         "code_postal": "26042",
-        "nom": "Oum El Djalil",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "أم الجليل",
+            "fr": "Oum El Djalil"
+        },
+        "gps": {
+            "lng": 2.6685736,
+            "lat": 35.8312012
+        }
     },
     {
-        "id": "941",
+        "id": 941,
         "code_postal": "26043",
-        "nom": "Ouamri",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "عوامري",
+            "fr": "Ouamri"
+        },
+        "gps": {
+            "lng": 2.5594214,
+            "lat": 36.2575001
+        }
     },
     {
-        "id": "942",
+        "id": 942,
         "code_postal": "26044",
-        "nom": "Si Mahdjoub",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "سى المحجوب",
+            "fr": "Si Mahdjoub"
+        },
+        "gps": {
+            "lng": 2.7481176,
+            "lat": 36.17741199999999
+        }
     },
     {
-        "id": "943",
+        "id": 943,
         "code_postal": "26045",
-        "nom": "Tlatet Eddoair",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "شلالات الضاورة",
+            "fr": "Chellalet El Adhaoura"
+        },
+        "gps": {
+            "lng": "3.413890",
+            "lat": "35,940280"
+        }
     },
     {
-        "id": "944",
+        "id": 944,
         "code_postal": "26046",
-        "nom": "Beni Slimane",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "بني سليمان",
+            "fr": "Beni Slimane"
+        },
+        "gps": {
+            "lng": 3.3086778,
+            "lat": 36.2283487
+        }
     },
     {
-        "id": "945",
+        "id": 945,
         "code_postal": "26047",
-        "nom": "Berrouaghia",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "البرواڨية",
+            "fr": "Berrouaghia"
+        },
+        "gps": {
+            "lng": 2.9175955,
+            "lat": 36.1625653
+        }
     },
     {
-        "id": "946",
+        "id": 946,
         "code_postal": "26048",
-        "nom": "Seghouane",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "سغوان",
+            "fr": "Seghouane"
+        },
+        "gps": {
+            "lng": 2.9175955,
+            "lat": 35.9887439
+        }
     },
     {
-        "id": "947",
+        "id": 947,
         "code_postal": "26049",
-        "nom": "Meftaha",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "المفاتحة",
+            "fr": "Meftaha"
+        },
+        "gps": {
+            "lng": 2.9175955,
+            "lat": 35.90168810000001
+        }
     },
     {
-        "id": "948",
+        "id": 948,
         "code_postal": "26050",
-        "nom": "Mihoub",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "ميهوب",
+            "fr": "Mihoub"
+        },
+        "gps": {
+            "lng": 3.4397386,
+            "lat": 36.3654474
+        }
     },
     {
-        "id": "949",
+        "id": 949,
         "code_postal": "26051",
-        "nom": "Boughezoul",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "بوغزول",
+            "fr": "Boughezoul"
+        },
+        "gps": {
+            "lng": 2.7381672,
+            "lat": 35.7533117
+        }
     },
     {
-        "id": "950",
+        "id": 950,
         "code_postal": "26052",
-        "nom": "Tablat",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "تابلاط",
+            "fr": "Tablat"
+        },
+        "gps": {
+            "lng": 3.318747,
+            "lat": 36.4121257
+        }
     },
     {
-        "id": "951",
+        "id": 951,
         "code_postal": "26053",
-        "nom": "Deux Bassins",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "فج الحوضين",
+            "fr": "Deux Bassins"
+        },
+        "gps": {
+            "lng": 3.2992135,
+            "lat": 36.469433
+        }
     },
     {
-        "id": "952",
+        "id": 952,
         "code_postal": "26054",
-        "nom": "Draa Essamar",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "ذراع السمار",
+            "fr": "Draa Essamar"
+        },
+        "gps": {
+            "lng": 2.7083287,
+            "lat": 36.2650726
+        }
     },
     {
-        "id": "953",
+        "id": 953,
         "code_postal": "26055",
-        "nom": "Sidi Errabia",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "سيدي الربيع",
+            "fr": "Sidi Errabia"
+        },
+        "gps": {
+            "lng": 3.3071524,
+            "lat": 36.2754347
+        }
     },
     {
-        "id": "954",
+        "id": 954,
         "code_postal": "26056",
-        "nom": "Bir Ben Laabed",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "بئر بن العابد",
+            "fr": "Bir Ben Laabed"
+        },
+        "gps": {
+            "lng": 3.4198797,
+            "lat": 36.1916138
+        }
     },
     {
-        "id": "955",
+        "id": 955,
         "code_postal": "26057",
-        "nom": "El Ouinet",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "العوينات",
+            "fr": "El Ouinet"
+        },
+        "gps": {
+            "lng": 3.0676373,
+            "lat": 35.865293
+        }
     },
     {
-        "id": "956",
+        "id": 956,
         "code_postal": "26058",
-        "nom": "Ouled Antar",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "أولاد عنتر",
+            "fr": "Ouled Antar"
+        },
+        "gps": {
+            "lng": 2.6387795,
+            "lat": 35.9951773
+        }
     },
     {
-        "id": "957",
+        "id": 957,
         "code_postal": "26059",
-        "nom": "Bouaichoune",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "بوعيشون",
+            "fr": "Bouaichoune"
+        },
+        "gps": {
+            "lng": 2.6487087,
+            "lat": 36.13622859999999
+        }
     },
     {
-        "id": "958",
+        "id": 958,
         "code_postal": "26060",
-        "nom": "Hannacha",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "حناشة",
+            "fr": "Hannacha"
+        },
+        "gps": {
+            "lng": 2.5891648,
+            "lat": 36.1809422
+        }
     },
     {
-        "id": "959",
+        "id": 959,
         "code_postal": "26061",
-        "nom": "Sedraia",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "سدراية",
+            "fr": "Sedraia"
+        },
+        "gps": {
+            "lng": 3.5288362,
+            "lat": 36.2425076
+        }
     },
     {
-        "id": "960",
+        "id": 960,
         "code_postal": "26062",
-        "nom": "Medjebar",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "مجبر",
+            "fr": "Medjebar"
+        },
+        "gps": {
+            "lng": 2.797901,
+            "lat": 35.9480676
+        }
     },
     {
-        "id": "961",
+        "id": 961,
         "code_postal": "26063",
-        "nom": "Khams Djouamaa",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "خمس جوامع",
+            "fr": "Khams Djouamaa"
+        },
+        "gps": {
+            "lng": 3.1277854,
+            "lat": 36.1464261
+        }
     },
     {
-        "id": "962",
+        "id": 962,
         "code_postal": "26064",
-        "nom": "Saneg",
-        "wilaya_id": "26"
+        "wilaya_id": "26",
+        "nom": {
+            "ar": "سانڨ",
+            "fr": "Saneg"
+        },
+        "gps": {
+            "lng": 2.8277963,
+            "lat": 35.84936839999999
+        }
     },
     {
         "id": 963,
@@ -11841,8 +13892,8 @@
             "fr": "El Gaada"
         },
         "gps": {
-            "lng": -0.315000,
-            "lat": 35.425280
+            "lng": -0.315,
+            "lat": 35.42528
         }
     },
     {
@@ -11855,7 +13906,7 @@
         },
         "gps": {
             "lng": -0.416667,
-            "lat": 35.516700
+            "lat": 35.5167
         }
     },
     {
@@ -11880,8 +13931,8 @@
             "fr": "Sidi Abdelmoumene"
         },
         "gps": {
-            "lng": 0.052780,
-            "lat": 35.635000
+            "lng": 0.05278,
+            "lat": 35.635
         }
     },
     {
@@ -11893,8 +13944,8 @@
             "fr": "Ferraguig"
         },
         "gps": {
-            "lng": 0.150000,
-            "lat": 35.533300
+            "lng": 0.15,
+            "lat": 35.5333
         }
     },
     {
@@ -11906,8 +13957,8 @@
             "fr": "El Ghomri"
         },
         "gps": {
-            "lng": 0.278800,
-            "lat": 35.713240
+            "lng": 0.2788,
+            "lat": 35.71324
         }
     },
     {
@@ -11919,8 +13970,8 @@
             "fr": "Sedjerara"
         },
         "gps": {
-            "lng": 0.350000,
-            "lat": 35.667000
+            "lng": 0.35,
+            "lat": 35.667
         }
     },
     {
@@ -11959,7 +14010,7 @@
         },
         "gps": {
             "lng": -0.057268,
-            "lat": 35.408710
+            "lat": 35.40871
         }
     },
     {
@@ -12023,8 +14074,8 @@
             "fr": "Chorfa"
         },
         "gps": {
-            "lng": -0.245280,
-            "lat": 35.431940
+            "lng": -0.24528,
+            "lat": 35.43194
         }
     },
     {
@@ -12192,8 +14243,8 @@
             "fr": "Zaouia El Abidia"
         },
         "gps": {
-            "lng": 6.082220,
-            "lat": 33.137500
+            "lng": 6.08222,
+            "lat": 33.1375
         }
     },
     {
@@ -12309,7 +14360,7 @@
             "fr": "Mnaguer"
         },
         "gps": {
-            "lng": 5.324550,
+            "lng": 5.32455,
             "lat": 31.951516
         }
     },
@@ -12686,8 +14737,8 @@
             "fr": "Ain Biya"
         },
         "gps": {
-            "lng": 4.176670,
-            "lat": 35.630280
+            "lng": 4.17667,
+            "lat": 35.63028
         }
     },
     {
@@ -12842,8 +14893,8 @@
             "fr": "Kef El Ahmar"
         },
         "gps": {
-            "lng": 0.632500,
-            "lat": 33.850000
+            "lng": 0.6325,
+            "lat": 33.85
         }
     },
     {
@@ -12868,8 +14919,8 @@
             "fr": "Chellala"
         },
         "gps": {
-            "lng": 2.317000,
-            "lat": 35.217000
+            "lng": 2.317,
+            "lat": 35.217
         }
     },
     {
@@ -12881,8 +14932,8 @@
             "fr": "Krakda"
         },
         "gps": {
-            "lng": 6.665830,
-            "lat": 36.034200
+            "lng": 6.66583,
+            "lat": 36.0342
         }
     },
     {
@@ -12894,8 +14945,8 @@
             "fr": "El Bnoud"
         },
         "gps": {
-            "lng": 0.244440,
-            "lat": 32.312220
+            "lng": 0.24444,
+            "lat": 32.31222
         }
     },
     {
@@ -12907,8 +14958,8 @@
             "fr": "Cheguig"
         },
         "gps": {
-            "lng": 1.228060,
-            "lat": 34.168890
+            "lng": 1.22806,
+            "lat": 34.16889
         }
     },
     {
@@ -13497,196 +15548,420 @@
         }
     },
     {
-        "id": "1198",
+        "id": 1197,
         "code_postal": "35001",
-        "nom": "Boumerdes",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "بومرداس",
+            "fr": "Boumerdes"
+        },
+        "gps": {
+            "lng": 3.4851867,
+            "lat": 36.7580109
+        }
     },
     {
-        "id": "1199",
+        "id": 1198,
         "code_postal": "35002",
-        "nom": "Boudouaou",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "بودواو",
+            "fr": "Boudouaou"
+        },
+        "gps": {
+            "lng": 3.4296446,
+            "lat": 36.7003998
+        }
     },
     {
-        "id": "1200",
+        "id": 1199,
         "code_postal": "35004",
-        "nom": "Afir",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "أعفير",
+            "fr": "Afir"
+        },
+        "gps": {
+            "lng": 3.9897847,
+            "lat": 36.8433446
+        }
     },
     {
-        "id": "1201",
+        "id": 1200,
         "code_postal": "35005",
-        "nom": "Bordj Menaiel",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "برج منايل",
+            "fr": "Bordj Menaiel"
+        },
+        "gps": {
+            "lng": 3.753666299999999,
+            "lat": 36.7552496
+        }
     },
     {
-        "id": "1202",
+        "id": 1201,
         "code_postal": "35006",
-        "nom": "Baghlia",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "بغلية",
+            "fr": "Baghlia"
+        },
+        "gps": {
+            "lng": 3.8757119,
+            "lat": 36.7943784
+        }
     },
     {
-        "id": "1203",
+        "id": 1202,
         "code_postal": "35007",
-        "nom": "Sidi Daoud",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "سيدي داود",
+            "fr": "Sidi Daoud"
+        },
+        "gps": {
+            "lng": 3.8583028,
+            "lat": 36.85560630000001
+        }
     },
     {
-        "id": "1204",
+        "id": 1203,
         "code_postal": "35008",
-        "nom": "Naciria",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "الناصرية",
+            "fr": "Naciria"
+        },
+        "gps": {
+            "lng": 3.8146526,
+            "lat": 36.7317908
+        }
     },
     {
-        "id": "1205",
+        "id": 1204,
         "code_postal": "35009",
-        "nom": "Djinet",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "جنات",
+            "fr": "Djinet"
+        },
+        "gps": {
+            "lng": 3.7333537,
+            "lat": 36.84192629999999
+        }
     },
     {
-        "id": "1206",
+        "id": 1205,
         "code_postal": "35010",
-        "nom": "Isser",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "يسر",
+            "fr": "Isser"
+        },
+        "gps": {
+            "lng": 3.6724649,
+            "lat": 36.69317969999999
+        }
     },
     {
-        "id": "1207",
+        "id": 1206,
         "code_postal": "35011",
-        "nom": "Zemmouri",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "زموري",
+            "fr": "Zemmouri"
+        },
+        "gps": {
+            "lng": 3.6010514,
+            "lat": 36.7859638
+        }
     },
     {
-        "id": "1208",
+        "id": 1207,
         "code_postal": "35012",
-        "nom": "Si Mustapha",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "سي مصطفى",
+            "fr": "Si Mustapha"
+        },
+        "gps": {
+            "lng": 3.6116494,
+            "lat": 36.7381058
+        }
     },
     {
-        "id": "1209",
+        "id": 1208,
         "code_postal": "35013",
-        "nom": "Tidjelabine",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "تيجلابين",
+            "fr": "Tidjelabine"
+        },
+        "gps": {
+            "lng": 3.490239099999999,
+            "lat": 36.72018399999999
+        }
     },
     {
-        "id": "1210",
+        "id": 1209,
         "code_postal": "35014",
-        "nom": "Chabet El Ameur",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "شعبة العامر",
+            "fr": "Chabet El Ameur"
+        },
+        "gps": {
+            "lng": 3.682608000000001,
+            "lat": 36.61743430000001
+        }
     },
     {
-        "id": "1211",
+        "id": 1210,
         "code_postal": "35015",
-        "nom": "Thenia",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "الثنية",
+            "fr": "Thenia"
+        },
+        "gps": {
+            "lng": 3.5577052,
+            "lat": 36.7245506
+        }
     },
     {
-        "id": "1212",
+        "id": 1211,
         "code_postal": "35018",
-        "nom": "Timezrit",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "تمزريت",
+            "fr": "Timezrit"
+        },
+        "gps": {
+            "lng": 3.799399199999999,
+            "lat": 36.662278
+        }
     },
     {
-        "id": "1213",
+        "id": 1212,
         "code_postal": "35019",
-        "nom": "Corso",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "قورصو",
+            "fr": "Corso"
+        },
+        "gps": {
+            "lng": 3.4447863,
+            "lat": 36.73765480000001
+        }
     },
     {
-        "id": "1214",
+        "id": 1213,
         "code_postal": "35020",
-        "nom": "Ouled Moussa",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "أولاد موسى",
+            "fr": "Ouled Moussa"
+        },
+        "gps": {
+            "lng": 3.3892894,
+            "lat": 36.68000540000001
+        }
     },
     {
-        "id": "1215",
+        "id": 1214,
         "code_postal": "35021",
-        "nom": "Larbatache",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "الاربعطاش",
+            "fr": "Larbatache"
+        },
+        "gps": {
+            "lng": 3.371541,
+            "lat": 36.636145
+        }
     },
     {
-        "id": "1216",
+        "id": 1215,
         "code_postal": "35022",
-        "nom": "Bouzegza Keddara",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "بوزڨزة قدارة",
+            "fr": "Bouzegza Keddara"
+        },
+        "gps": {
+            "lng": 3.478950299999999,
+            "lat": 36.6261517
+        }
     },
     {
-        "id": "1217",
+        "id": 1216,
         "code_postal": "35025",
-        "nom": "Taourga",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "تورڨة",
+            "fr": "Taourga"
+        },
+        "gps": {
+            "lng": 3.9368439,
+            "lat": 36.7923763
+        }
     },
     {
-        "id": "1218",
+        "id": 1217,
         "code_postal": "35026",
-        "nom": "Ouled Aissa",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "أولاد عيسى",
+            "fr": "Ouled Aissa"
+        },
+        "gps": {
+            "lng": 3.8146526,
+            "lat": 36.79634679999999
+        }
     },
     {
-        "id": "1219",
+        "id": 1218,
         "code_postal": "35027",
-        "nom": "Ben Choud",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "بن شود",
+            "fr": "Ben Choud"
+        },
+        "gps": {
+            "lng": 3.901174700000001,
+            "lat": 36.85267350000001
+        }
     },
     {
-        "id": "1220",
+        "id": 1219,
         "code_postal": "35028",
-        "nom": "Dellys",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "دلس",
+            "fr": "Dellys"
+        },
+        "gps": {
+            "lng": 3.9368439,
+            "lat": 36.87835990000001
+        }
     },
     {
-        "id": "1221",
+        "id": 1220,
         "code_postal": "35029",
-        "nom": "Ammal",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "عمال",
+            "fr": "Ammal"
+        },
+        "gps": {
+            "lng": 3.5913939,
+            "lat": 36.63099109999999
+        }
     },
     {
-        "id": "1222",
+        "id": 1221,
         "code_postal": "35030",
-        "nom": "Beni Amrane",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "بني عمران",
+            "fr": "Beni Amrane"
+        },
+        "gps": {
+            "lng": 3.576207699999999,
+            "lat": 36.6583927
+        }
     },
     {
-        "id": "1223",
+        "id": 1222,
         "code_postal": "35031",
-        "nom": "Souk El Had",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "سوق الحد",
+            "fr": "Souk El Had"
+        },
+        "gps": {
+            "lng": 3.5863313,
+            "lat": 36.69041170000001
+        }
     },
     {
-        "id": "1224",
+        "id": 1223,
         "code_postal": "35032",
-        "nom": "Boudouaou El Bahri",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "بودواو البحري",
+            "fr": "Boudouaou El Bahri"
+        },
+        "gps": {
+            "lng": 3.394332,
+            "lat": 36.7606292
+        }
     },
     {
-        "id": "1225",
+        "id": 1224,
         "code_postal": "35033",
-        "nom": "Ouled Hedadj",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "أولاد هداج",
+            "fr": "Ouled Hedadj"
+        },
+        "gps": {
+            "lng": 3.3439291,
+            "lat": 36.7082162
+        }
     },
     {
-        "id": "1226",
+        "id": 1225,
         "code_postal": "35035",
-        "nom": "Laghata",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "لڨاطة",
+            "fr": "Laghata"
+        },
+        "gps": {
+            "lng": 3.6724649,
+            "lat": 36.7792958
+        }
     },
     {
-        "id": "1227",
+        "id": 1226,
         "code_postal": "35036",
-        "nom": "Hammedi",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "حمادي",
+            "fr": "Hammedi"
+        },
+        "gps": {
+            "lng": 3.2633918,
+            "lat": 36.67812309999999
+        }
     },
     {
-        "id": "1228",
+        "id": 1227,
         "code_postal": "35037",
-        "nom": "Khemis El Khechna",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "خميس الخشنة",
+            "fr": "Khemis El Khechna"
+        },
+        "gps": {
+            "lng": 3.3288183,
+            "lat": 36.63859329999999
+        }
     },
     {
-        "id": "1229",
+        "id": 1228,
         "code_postal": "35038",
-        "nom": "El Kharrouba",
-        "wilaya_id": "35"
+        "wilaya_id": "35",
+        "nom": {
+            "ar": "الخروبة",
+            "fr": "El Kharrouba"
+        },
+        "gps": {
+            "lng": 3.4296446,
+            "lat": 36.6141776
+        }
     },
     {
         "id": 1230,
@@ -13853,8 +16128,8 @@
             "fr": "Drean"
         },
         "gps": {
-            "lng": 7.759540,
-            "lat": 36.669600
+            "lng": 7.75954,
+            "lat": 36.6696
         }
     },
     {
@@ -13879,8 +16154,8 @@
             "fr": "Chebaita Mokhtar"
         },
         "gps": {
-            "lng": 7.741670,
-            "lat": 36.755830
+            "lng": 7.74167,
+            "lat": 36.75583
         }
     },
     {
@@ -14087,8 +16362,8 @@
             "fr": "Beni Chaib"
         },
         "gps": {
-            "lng": 1.799440,
-            "lat": 35.820280
+            "lng": 1.79944,
+            "lat": 35.82028
         }
     },
     {
@@ -14113,8 +16388,8 @@
             "fr": "Melaab"
         },
         "gps": {
-            "lng": 1.333000,
-            "lat": 35.717000
+            "lng": 1.333,
+            "lat": 35.717
         }
     },
     {
@@ -14191,8 +16466,8 @@
             "fr": "Ammari"
         },
         "gps": {
-            "lng": 1.662300,
-            "lat": 35.577100
+            "lng": 1.6623,
+            "lat": 35.5771
         }
     },
     {
@@ -14204,8 +16479,8 @@
             "fr": "Youssoufia"
         },
         "gps": {
-            "lng": 2.112780,
-            "lat": 35.948060
+            "lng": 2.11278,
+            "lat": 35.94806
         }
     },
     {
@@ -14244,7 +16519,7 @@
         },
         "gps": {
             "lng": 1.552266,
-            "lat": 35.658680
+            "lat": 35.65868
         }
     },
     {
@@ -14269,8 +16544,8 @@
             "fr": "Tamalaht"
         },
         "gps": {
-            "lng": 1.613060,
-            "lat": 35.823480
+            "lng": 1.61306,
+            "lat": 35.82348
         }
     },
     {
@@ -14516,8 +16791,8 @@
             "fr": "Sidi Aoun"
         },
         "gps": {
-            "lng": 6.933330,
-            "lat": 33.566700
+            "lng": 6.93333,
+            "lat": 33.5667
         }
     },
     {
@@ -14595,7 +16870,7 @@
         },
         "gps": {
             "lng": 5.662538,
-            "lat": 33.470420
+            "lat": 33.47042
         }
     },
     {
@@ -14685,8 +16960,8 @@
             "fr": "Oum Touyour"
         },
         "gps": {
-            "lng": 5.833330,
-            "lat": 34.153300
+            "lng": 5.83333,
+            "lat": 34.1533
         }
     },
     {
@@ -14698,8 +16973,8 @@
             "fr": "Sidi Amrane"
         },
         "gps": {
-            "lng": 5.986370,
-            "lat": 33.491770
+            "lng": 5.98637,
+            "lat": 33.49177
         }
     },
     {
@@ -14724,8 +16999,8 @@
             "fr": "Mtoussa"
         },
         "gps": {
-            "lng": 5.986370,
-            "lat": 33.491770
+            "lng": 5.98637,
+            "lat": 33.49177
         }
     },
     {
@@ -14815,8 +17090,8 @@
             "fr": "El Oueldja"
         },
         "gps": {
-            "lng": 6.350000,
-            "lat": 37.017000
+            "lng": 6.35,
+            "lat": 37.017
         }
     },
     {
@@ -14893,8 +17168,8 @@
             "fr": "Ensigha"
         },
         "gps": {
-            "lng": 7.143060,
-            "lat": 35.397220
+            "lng": 7.14306,
+            "lat": 35.39722
         }
     },
     {
@@ -15023,8 +17298,8 @@
             "fr": "Mechroha"
         },
         "gps": {
-            "lng": 7.833330,
-            "lat": 36.350000
+            "lng": 7.83333,
+            "lat": 36.35
         }
     },
     {
@@ -15400,8 +17675,8 @@
             "fr": "Aghabal"
         },
         "gps": {
-            "lng": 1.839170,
-            "lat": 36.491940
+            "lng": 1.83917,
+            "lat": 36.49194
         }
     },
     {
@@ -16094,538 +18369,1161 @@
         }
     },
     {
-        "id": "1415",
+        "id": 1414,
         "code_postal": "44001",
-        "nom": "Ain Defla",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "عين الدفلى‎",
+            "fr": "Ain Defla"
+        },
+        "gps": {
+            "lng": 1.9641065,
+            "lat": 36.263186
+        }
     },
     {
-        "id": "1416",
+        "id": 1415,
         "code_postal": "44002",
-        "nom": "Miliana",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "مليانة",
+            "fr": "Miliana"
+        },
+        "gps": {
+            "lng": 2.2335066,
+            "lat": 36.3181921
+        }
     },
     {
-        "id": "1417",
+        "id": 1416,
         "code_postal": "44003",
-        "nom": "Boumedfaa",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "بو مدفع",
+            "fr": "Boumedfaa"
+        },
+        "gps": {
+            "lng": 2.5197932,
+            "lat": 36.3450137
+        }
     },
     {
-        "id": "1418",
+        "id": 1417,
         "code_postal": "44004",
-        "nom": "Khemis Miliana",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "خميس مليانة",
+            "fr": "Khemis Miliana"
+        },
+        "gps": {
+            "lng": 2.2138289,
+            "lat": 36.2535274
+        }
     },
     {
-        "id": "1419",
+        "id": 1418,
         "code_postal": "44005",
-        "nom": "Hammam Righa",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "حمام ريغة",
+            "fr": "Hammam Righa"
+        },
+        "gps": {
+            "lng": 2.3616203,
+            "lat": 36.3915345
+        }
     },
     {
-        "id": "1420",
+        "id": 1419,
         "code_postal": "44006",
-        "nom": "Arib",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "عريب",
+            "fr": "Arib"
+        },
+        "gps": {
+            "lng": 2.0469151,
+            "lat": 36.3540148
+        }
     },
     {
-        "id": "1421",
+        "id": 1420,
         "code_postal": "44007",
-        "nom": "Djelida",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "جليدة",
+            "fr": "Djelida"
+        },
+        "gps": {
+            "lng": 2.086133,
+            "lat": 36.1798746
+        }
     },
     {
-        "id": "1422",
+        "id": 1421,
         "code_postal": "44008",
-        "nom": "El Amra",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "العامرة",
+            "fr": "El Amra"
+        },
+        "gps": {
+            "lng": 1.851343,
+            "lat": 36.3571923
+        }
     },
     {
-        "id": "1423",
+        "id": 1422,
         "code_postal": "44009",
-        "nom": "Bourached",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "بوراشد",
+            "fr": "Bourached"
+        },
+        "gps": {
+            "lng": 1.9294681,
+            "lat": 36.1824916
+        }
     },
     {
-        "id": "1424",
+        "id": 1423,
         "code_postal": "44010",
-        "nom": "El Attaf",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "العطاف",
+            "fr": "El Attaf"
+        },
+        "gps": {
+            "lng": 1.7052325,
+            "lat": 36.2184385
+        }
     },
     {
-        "id": "1425",
+        "id": 1424,
         "code_postal": "44011",
-        "nom": "El Abadia",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "العبادية",
+            "fr": "El Abadia"
+        },
+        "gps": {
+            "lng": 1.6566377,
+            "lat": 36.2733492
+        }
     },
     {
-        "id": "1426",
+        "id": 1425,
         "code_postal": "44012",
-        "nom": "Djendel",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "جندل",
+            "fr": "Djendel"
+        },
+        "gps": {
+            "lng": 2.4136924,
+            "lat": 36.2181875
+        }
     },
     {
-        "id": "1427",
+        "id": 1426,
         "code_postal": "44013",
-        "nom": "Oued Chorfa",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "واد الشرفاء",
+            "fr": "Oued Chorfa"
+        },
+        "gps": {
+            "lng": 2.5495112,
+            "lat": 36.1383732
+        }
     },
     {
-        "id": "1428",
+        "id": 1427,
         "code_postal": "44014",
-        "nom": "Ain Lechiakh",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "عين الأشياخ",
+            "fr": "Ain Lechiakh"
+        },
+        "gps": {
+            "lng": 2.401112399999999,
+            "lat": 36.1305702
+        }
     },
     {
-        "id": "1429",
+        "id": 1428,
         "code_postal": "44015",
-        "nom": "Oued Djemaa",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "واد الجمعة",
+            "fr": "Oued Djemaa"
+        },
+        "gps": {
+            "lng": 2.3616203,
+            "lat": 36.04442969999999
+        }
     },
     {
-        "id": "1430",
+        "id": 1429,
         "code_postal": "44016",
-        "nom": "Rouina",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "الروينة",
+            "fr": "Rouina"
+        },
+        "gps": {
+            "lng": 1.822081799999999,
+            "lat": 36.2384198
+        }
     },
     {
-        "id": "1431",
+        "id": 1430,
         "code_postal": "44017",
-        "nom": "Zeddine",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "زدين",
+            "fr": "Zeddine"
+        },
+        "gps": {
+            "lng": 1.8220818,
+            "lat": 36.15159769999999
+        }
     },
     {
-        "id": "1432",
+        "id": 1431,
         "code_postal": "44018",
-        "nom": "El Hassania",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "الحسنية",
+            "fr": "El Hassania"
+        },
+        "gps": {
+            "lng": 1.9294681,
+            "lat": 36.0086314
+        }
     },
     {
-        "id": "1433",
+        "id": 1432,
         "code_postal": "44019",
-        "nom": "Bir Ouled Khelifa",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "بئر أولاد خليفة",
+            "fr": "Bir Ouled Khelifa"
+        },
+        "gps": {
+            "lng": 2.2138289,
+            "lat": 36.1884431
+        }
     },
     {
-        "id": "1434",
+        "id": 1433,
         "code_postal": "44020",
-        "nom": "Ain Soltane",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "عين سلطان",
+            "fr": "Ain Soltane"
+        },
+        "gps": {
+            "lng": 4.7342204,
+            "lat": 36.1331659
+        }
     },
     {
-        "id": "1435",
+        "id": 1434,
         "code_postal": "44021",
-        "nom": "Tarik Ibn Ziad",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "طارق إبن زياد",
+            "fr": "Tarik Ibn Ziad"
+        },
+        "gps": {
+            "lng": 2.1646722,
+            "lat": 35.9611096
+        }
     },
     {
-        "id": "1436",
+        "id": 1435,
         "code_postal": "44022",
-        "nom": "Bordj Emir Khaled",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "برج الأمير خالد",
+            "fr": "Bordj Emir Khaled"
+        },
+        "gps": {
+            "lng": 2.1646722,
+            "lat": 36.09160809999999
+        }
     },
     {
-        "id": "1437",
+        "id": 1436,
         "code_postal": "44023",
-        "nom": "Ain Torki",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "عين تركي",
+            "fr": "Ain Torki"
+        },
+        "gps": {
+            "lng": 2.2827384,
+            "lat": 36.3497591
+        }
     },
     {
-        "id": "1438",
+        "id": 1437,
         "code_postal": "44024",
-        "nom": "Sidi Lakhdar",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "سيدي لخضر",
+            "fr": "Sidi Lakhdar"
+        },
+        "gps": {
+            "lng": 0.4431618000000001,
+            "lat": 36.1618701
+        }
     },
     {
-        "id": "1439",
+        "id": 1438,
         "code_postal": "44025",
-        "nom": "Ben Allal",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "بن علال",
+            "fr": "Ben Allal"
+        },
+        "gps": {
+            "lng": 2.1646722,
+            "lat": 36.3519477
+        }
     },
     {
-        "id": "1440",
+        "id": 1439,
         "code_postal": "44026",
-        "nom": "Ain Benian",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "عين البنيان",
+            "fr": "Ain Benian"
+        },
+        "gps": {
+            "lng": 2.3764258,
+            "lat": 36.3533538
+        }
     },
     {
-        "id": "1441",
+        "id": 1440,
         "code_postal": "44027",
-        "nom": "Hoceinia",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "حسينية",
+            "fr": "Hoceinia"
+        },
+        "gps": {
+            "lng": 2.4011124,
+            "lat": 36.3041215
+        }
     },
     {
-        "id": "1442",
+        "id": 1441,
         "code_postal": "44028",
-        "nom": "Barbouche",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "بربوش",
+            "fr": "Barbouche"
+        },
+        "gps": {
+            "lng": 2.4900943,
+            "lat": 36.0961767
+        }
     },
     {
-        "id": "1443",
+        "id": 1442,
         "code_postal": "44029",
-        "nom": "Djemaa Ouled Chikh",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "الجمعة أولاد الشيخ",
+            "fr": "Djemaa Ouled Chikh"
+        },
+        "gps": {
+            "lng": 2.0077316,
+            "lat": 36.09432950000001
+        }
     },
     {
-        "id": "1444",
+        "id": 1443,
         "code_postal": "44030",
-        "nom": "Mekhatria",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "المخاطرية",
+            "fr": "Mekhatria"
+        },
+        "gps": {
+            "lng": 1.9588007,
+            "lat": 36.3446556
+        }
     },
     {
-        "id": "1445",
+        "id": 1444,
         "code_postal": "44031",
-        "nom": "Bathia",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "بطحية",
+            "fr": "Bathia"
+        },
+        "gps": {
+            "lng": 1.7830973,
+            "lat": 35.9346997
+        }
     },
     {
-        "id": "1446",
+        "id": 1445,
         "code_postal": "44032",
-        "nom": "Tachta Zegagha",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "تشتة زقاغة",
+            "fr": "Tachta Zegagha"
+        },
+        "gps": {
+            "lng": "1.643438",
+            "lat": "36.351118"
+        }
     },
     {
-        "id": "1447",
+        "id": 1446,
         "code_postal": "44033",
-        "nom": "Ain Bouyahia",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "عين بويحي",
+            "fr": "Ain Bouyahia"
+        },
+        "gps": {
+            "lng": 1.7733566,
+            "lat": 36.3150386
+        }
     },
     {
-        "id": "1448",
+        "id": 1447,
         "code_postal": "44034",
-        "nom": "El Maine",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "الماين",
+            "fr": "El Maine"
+        },
+        "gps": {
+            "lng": 1.7344155,
+            "lat": 36.09858000000001
+        }
     },
     {
-        "id": "1449",
+        "id": 1448,
         "code_postal": "44035",
-        "nom": "Tiberkanine",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "تبركانين",
+            "fr": "Tiberkanine"
+        },
+        "gps": {
+            "lng": 1.6469253,
+            "lat": 36.1541243
+        }
     },
     {
-        "id": "1450",
+        "id": 1449,
         "code_postal": "44036",
-        "nom": "Belaas",
-        "wilaya_id": "44"
+        "wilaya_id": "44",
+        "nom": {
+            "ar": "بلعاص",
+            "fr": "Belaas"
+        },
+        "gps": {
+            "lng": 1.8512951,
+            "lat": 35.9824454
+        }
     },
     {
-        "id": "1451",
+        "id": 1450,
         "code_postal": "45001",
-        "nom": "Naama",
-        "wilaya_id": "45"
+        "wilaya_id": "45",
+        "nom": {
+            "ar": "النعامة",
+            "fr": "Naama"
+        },
+        "gps": {
+            "lng": -0.3748354,
+            "lat": 33.1683267
+        }
     },
     {
-        "id": "1452",
+        "id": 1451,
         "code_postal": "45002",
-        "nom": "Mechria",
-        "wilaya_id": "45"
+        "wilaya_id": "45",
+        "nom": {
+            "ar": "المشرية",
+            "fr": "Mechria"
+        },
+        "gps": {
+            "lng": -0.2762707,
+            "lat": 33.5442772
+        }
     },
     {
-        "id": "1453",
+        "id": 1452,
         "code_postal": "45003",
-        "nom": "Ain Sefra",
-        "wilaya_id": "45"
+        "wilaya_id": "45",
+        "nom": {
+            "ar": "عين الصفراء‎",
+            "fr": "Ain Sefra"
+        },
+        "gps": {
+            "lng": -0.5778033,
+            "lat": 32.75633320000001
+        }
     },
     {
-        "id": "1454",
+        "id": 1453,
         "code_postal": "45004",
-        "nom": "Tiout",
-        "wilaya_id": "45"
+        "wilaya_id": "45",
+        "nom": {
+            "ar": "تيوت",
+            "fr": "Tiout"
+        },
+        "gps": {
+            "lng": -0.4266584,
+            "lat": 32.7682249
+        }
     },
     {
-        "id": "1455",
+        "id": 1454,
         "code_postal": "45005",
-        "nom": "Sfissifa",
-        "wilaya_id": "45"
+        "wilaya_id": "45",
+        "nom": {
+            "ar": "صفيصيفة",
+            "fr": "Sfissifa"
+        },
+        "gps": {
+            "lng": -0.9820667999999997,
+            "lat": 32.8046166
+        }
     },
     {
-        "id": "1456",
+        "id": 1455,
         "code_postal": "45006",
-        "nom": "Moghrar",
-        "wilaya_id": "45"
+        "wilaya_id": "45",
+        "nom": {
+            "ar": "مغرار",
+            "fr": "Moghrar"
+        },
+        "gps": {
+            "lng": -0.5754373,
+            "lat": 32.51616310000001
+        }
     },
     {
-        "id": "1457",
+        "id": 1456,
         "code_postal": "45007",
-        "nom": "Assela",
-        "wilaya_id": "45"
+        "wilaya_id": "45",
+        "nom": {
+            "ar": "عسلة",
+            "fr": "Assela"
+        },
+        "gps": {
+            "lng": -0.0793488,
+            "lat": 33.00570099999999
+        }
     },
     {
-        "id": "1458",
+        "id": 1457,
         "code_postal": "45008",
-        "nom": "Djeniane Bourzeg",
-        "wilaya_id": "45"
+        "wilaya_id": "45",
+        "nom": {
+            "ar": "جنين بورزق",
+            "fr": "Djeniane Bourzeg"
+        },
+        "gps": {
+            "lng": -0.9438468,
+            "lat": 32.397902
+        }
     },
     {
-        "id": "1459",
+        "id": 1458,
         "code_postal": "45009",
-        "nom": "Ain Ben Khelil",
-        "wilaya_id": "45"
+        "wilaya_id": "45",
+        "nom": {
+            "ar": "عين بن خليل",
+            "fr": "Ain Ben Khelil"
+        },
+        "gps": {
+            "lng": -0.763049,
+            "lat": 33.28855100000001
+        }
     },
     {
-        "id": "1460",
+        "id": 1459,
         "code_postal": "45010",
-        "nom": "Makman Ben Amer",
-        "wilaya_id": "45"
+        "wilaya_id": "45",
+        "nom": {
+            "ar": "Mekmene Ben Amar",
+            "fr": "Makman Ben Amer"
+        },
+        "gps": {
+            "lng": -0.7333329999999999,
+            "lat": 33.716667
+        }
     },
     {
-        "id": "1461",
+        "id": 1460,
         "code_postal": "45011",
-        "nom": "Kasdir",
-        "wilaya_id": "45"
+        "wilaya_id": "45",
+        "nom": {
+            "ar": "El Kasdir",
+            "fr": "Kasdir"
+        },
+        "gps": {
+            "lng": -1.375755,
+            "lat": 33.713589
+        }
     },
     {
-        "id": "1462",
+        "id": 1461,
         "code_postal": "45012",
-        "nom": "El Biod",
-        "wilaya_id": "45"
+        "wilaya_id": "45",
+        "nom": {
+            "ar": "البيوض",
+            "fr": "El Biod"
+        },
+        "gps": {
+            "lng": -0.1284404,
+            "lat": 33.7600866
+        }
     },
     {
-        "id": "1463",
+        "id": 1462,
         "code_postal": "46001",
-        "nom": "Ain Temouchent",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "عين تموشنت",
+            "fr": "Ain Temouchent"
+        },
+        "gps": {
+            "lng": -1.1424514,
+            "lat": 35.3072501
+        }
     },
     {
-        "id": "1464",
+        "id": 1463,
         "code_postal": "46002",
-        "nom": "Chaabet El Ham",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "شعبة اللحم",
+            "fr": "Chaabet El Ham"
+        },
+        "gps": {
+            "lng": -1.1017334,
+            "lat": 35.3361405
+        }
     },
     {
-        "id": "1465",
+        "id": 1464,
         "code_postal": "46003",
-        "nom": "Ain Kihal",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "عين كيحل",
+            "fr": "Ain Kihal"
+        },
+        "gps": {
+            "lng": -1.2001181,
+            "lat": 35.2006828
+        }
     },
     {
-        "id": "1466",
+        "id": 1465,
         "code_postal": "46004",
-        "nom": "Hammam Bouhadjar",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "حمام بوحجر",
+            "fr": "Hammam Bouhadjar"
+        },
+        "gps": {
+            "lng": -0.9677300999999997,
+            "lat": 35.3701948
+        }
     },
     {
-        "id": "1467",
+        "id": 1466,
         "code_postal": "46005",
-        "nom": "Bou Zedjar",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "بوزجار",
+            "fr": "Bou Zedjar"
+        },
+        "gps": {
+            "lng": -1.1424989,
+            "lat": 35.5795438
+        }
     },
     {
-        "id": "1468",
+        "id": 1467,
         "code_postal": "46006",
-        "nom": "Oued Berkeche",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "واد بركاش",
+            "fr": "Oued Berkeche"
+        },
+        "gps": {
+            "lng": -0.9856518000000003,
+            "lat": 35.2204682
+        }
     },
     {
-        "id": "1469",
+        "id": 1468,
         "code_postal": "46007",
-        "nom": "Aghlal",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "آغلال",
+            "fr": "Aghlal"
+        },
+        "gps": {
+            "lng": -1.065797,
+            "lat": 35.2019341
+        }
     },
     {
-        "id": "1470",
+        "id": 1469,
         "code_postal": "46008",
-        "nom": "Terga",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "تارقة",
+            "fr": "Terga"
+        },
+        "gps": {
+            "lng": -1.1797022,
+            "lat": 35.4190324
+        }
     },
     {
-        "id": "1471",
+        "id": 1470,
         "code_postal": "46009",
-        "nom": "Ain El Arbaa",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "عين الأربعاء",
+            "fr": "Ain El Arbaa"
+        },
+        "gps": {
+            "lng": -0.8818151,
+            "lat": 35.4037488
+        }
     },
     {
-        "id": "1472",
+        "id": 1471,
         "code_postal": "46010",
-        "nom": "Tamzoura",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "تامزوغة",
+            "fr": "Tamzoura"
+        },
+        "gps": {
+            "lng": -0.6607038999999999,
+            "lat": 35.4133773
+        }
     },
     {
-        "id": "1473",
+        "id": 1472,
         "code_postal": "46011",
-        "nom": "Chentouf",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "شنتوف",
+            "fr": "Chentouf"
+        },
+        "gps": {
+            "lng": -1.0119509,
+            "lat": 35.29988
+        }
     },
     {
-        "id": "1474",
+        "id": 1473,
         "code_postal": "46012",
-        "nom": "Sidi Ben Adda",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "سيدي بن عدة",
+            "fr": "Sidi Ben Adda"
+        },
+        "gps": {
+            "lng": -1.1809029,
+            "lat": 35.3052158
+        }
     },
     {
-        "id": "1475",
+        "id": 1474,
         "code_postal": "46013",
-        "nom": "Aoubellil",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "عقب الليل",
+            "fr": "Aoubellil"
+        },
+        "gps": {
+            "lng": -0.9928226000000001,
+            "lat": 35.1379554
+        }
     },
     {
-        "id": "1476",
+        "id": 1475,
         "code_postal": "46014",
-        "nom": "El Malah",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "المالح",
+            "fr": "El Malah"
+        },
+        "gps": {
+            "lng": -1.0945436,
+            "lat": 35.3883099
+        }
     },
     {
-        "id": "1477",
+        "id": 1476,
         "code_postal": "46015",
-        "nom": "Sidi Boumediene",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "سيدي بومدين",
+            "fr": "Sidi Boumediene"
+        },
+        "gps": {
+            "lng": -0.8949292999999999,
+            "lat": 35.35292740000001
+        }
     },
     {
-        "id": "1478",
+        "id": 1477,
         "code_postal": "46016",
-        "nom": "Oued Sabah",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "واد صباح",
+            "fr": "Oued Sabah"
+        },
+        "gps": {
+            "lng": -0.8127369000000001,
+            "lat": 35.3740738
+        }
     },
     {
-        "id": "1479",
+        "id": 1478,
         "code_postal": "46017",
-        "nom": "Ouled Boudjemaa",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "أولاد بوجمعة",
+            "fr": "Ouled Boudjemaa"
+        },
+        "gps": {
+            "lng": -1.1917104,
+            "lat": 35.47096559999999
+        }
     },
     {
-        "id": "1480",
+        "id": 1479,
         "code_postal": "46018",
-        "nom": "Ain Tolba",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "عين الطلبة",
+            "fr": "Ain Tolba"
+        },
+        "gps": {
+            "lng": -1.2530057,
+            "lat": 35.25508370000001
+        }
     },
     {
-        "id": "1481",
+        "id": 1480,
         "code_postal": "46019",
-        "nom": "El Amria",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "العامرية",
+            "fr": "El Amria"
+        },
+        "gps": {
+            "lng": -1.0179304,
+            "lat": 35.5259362
+        }
     },
     {
-        "id": "1482",
+        "id": 1481,
         "code_postal": "46020",
-        "nom": "Hassi El Ghella",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "حاسي الغلة",
+            "fr": "Hassi El Ghella"
+        },
+        "gps": {
+            "lng": -1.0514312,
+            "lat": 35.4544602
+        }
     },
     {
-        "id": "1483",
+        "id": 1482,
         "code_postal": "46021",
-        "nom": "Hassasna",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "حساسنة",
+            "fr": "Hassasna"
+        },
+        "gps": {
+            "lng": -0.9880123000000002,
+            "lat": 35.273753
+        }
     },
     {
-        "id": "1484",
+        "id": 1483,
         "code_postal": "46022",
-        "nom": "Ouled Kihal",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "أولا الكيحل",
+            "fr": "Ouled Kihal"
+        },
+        "gps": {
+            "lng": -1.2217459,
+            "lat": 35.3733876
+        }
     },
     {
-        "id": "1485",
+        "id": 1484,
         "code_postal": "46023",
-        "nom": "Beni Saf",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "بني صاف",
+            "fr": "Beni Saf"
+        },
+        "gps": {
+            "lng": -1.3710402,
+            "lat": 35.3004743
+        }
     },
     {
-        "id": "1486",
+        "id": 1485,
         "code_postal": "46024",
-        "nom": "Sidi Safi",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "سيدي صافي",
+            "fr": "Sidi Safi"
+        },
+        "gps": {
+            "lng": -1.3107772,
+            "lat": 35.2819277
+        }
     },
     {
-        "id": "1487",
+        "id": 1486,
         "code_postal": "46025",
-        "nom": "Oulhaca El Gheraba",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "أولاسة الغرابة",
+            "fr": "Oulhaca El Gheraba"
+        },
+        "gps": {
+            "lng": "-1.504440",
+            "lat": "35.233060"
+        }
     },
     {
-        "id": "1488",
+        "id": 1487,
         "code_postal": "46026",
-        "nom": "Tadmaya",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "تادمية",
+            "fr": "Tadmaya"
+        },
+        "gps": {
+            "lng": -1.4476979,
+            "lat": 35.24262340000001
+        }
     },
     {
-        "id": "1489",
+        "id": 1488,
         "code_postal": "46027",
-        "nom": "El Emir Abdelkader",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "الأمير عبد القادر",
+            "fr": "El Emir Abdelkader"
+        },
+        "gps": {
+            "lng": -1.4072392,
+            "lat": 35.2204402
+        }
     },
     {
-        "id": "1490",
+        "id": 1489,
         "code_postal": "46028",
-        "nom": "El Messaid",
-        "wilaya_id": "46"
+        "wilaya_id": "46",
+        "nom": {
+            "ar": "المسعيد",
+            "fr": "El Messaid"
+        },
+        "gps": {
+            "lng": "-1.121940",
+            "lat": "35.541940"
+        }
     },
     {
-        "id": "1491",
+        "id": 1490,
         "code_postal": "47001",
-        "nom": "Ghardaia",
-        "wilaya_id": "47"
+        "wilaya_id": "47",
+        "nom": {
+            "ar": "غرداية",
+            "fr": "Ghardaia"
+        },
+        "gps": {
+            "lng": 3.6738412,
+            "lat": 32.4902246
+        }
     },
     {
-        "id": "1492",
+        "id": 1491,
         "code_postal": "47002",
-        "nom": "El Meniaa",
-        "wilaya_id": "47"
+        "wilaya_id": "47",
+        "nom": {
+            "ar": "المنيعة",
+            "fr": "El Meniaa"
+        },
+        "gps": {
+            "lng": 2.8876436,
+            "lat": 30.59958869999999
+        }
     },
     {
-        "id": "1493",
+        "id": 1492,
         "code_postal": "47003",
-        "nom": "Dhayet Bendhahoua",
-        "wilaya_id": "47"
+        "wilaya_id": "47",
+        "nom": {
+            "ar": "ضاية بن ضحوة",
+            "fr": "Dhayet Bendhahoua"
+        },
+        "gps": {
+            "lng": 3.4903196,
+            "lat": 32.5634258
+        }
     },
     {
-        "id": "1494",
+        "id": 1493,
         "code_postal": "47004",
-        "nom": "Berriane",
-        "wilaya_id": "47"
+        "wilaya_id": "47",
+        "nom": {
+            "ar": "بريان",
+            "fr": "Berriane"
+        },
+        "gps": {
+            "lng": 3.7718098,
+            "lat": 32.83376689999999
+        }
     },
     {
-        "id": "1495",
+        "id": 1494,
         "code_postal": "47005",
-        "nom": "Metlili",
-        "wilaya_id": "47"
+        "wilaya_id": "47",
+        "nom": {
+            "ar": "متليلي",
+            "fr": "Metlili"
+        },
+        "gps": {
+            "lng": 3.598988799999999,
+            "lat": 32.29082619999999
+        }
     },
     {
-        "id": "1496",
+        "id": 1495,
         "code_postal": "47006",
-        "nom": "El Guerrara",
-        "wilaya_id": "47"
+        "wilaya_id": "47",
+        "nom": {
+            "ar": "القرارة",
+            "fr": "El Guerrara"
+        },
+        "gps": {
+            "lng": 4.492221499999999,
+            "lat": 32.7900544
+        }
     },
     {
-        "id": "1497",
+        "id": 1496,
         "code_postal": "47007",
-        "nom": "El Atteuf",
-        "wilaya_id": "47"
+        "wilaya_id": "47",
+        "nom": {
+            "ar": "العطف",
+            "fr": "El Atteuf"
+        },
+        "gps": {
+            "lng": 3.7471211,
+            "lat": 32.4766504
+        }
     },
     {
-        "id": "1498",
+        "id": 1497,
         "code_postal": "47008",
-        "nom": "Zelfana",
-        "wilaya_id": "47"
+        "wilaya_id": "47",
+        "nom": {
+            "ar": "زلفانة",
+            "fr": "Zelfana"
+        },
+        "gps": {
+            "lng": 4.2230836,
+            "lat": 32.4101618
+        }
     },
     {
-        "id": "1499",
+        "id": 1498,
         "code_postal": "47009",
-        "nom": "Sebseb",
-        "wilaya_id": "47"
+        "wilaya_id": "47",
+        "nom": {
+            "ar": "سبسب",
+            "fr": "Sebseb"
+        },
+        "gps": {
+            "lng": 3.5838002,
+            "lat": 32.1666038
+        }
     },
     {
-        "id": "1500",
+        "id": 1499,
         "code_postal": "47010",
-        "nom": "Bounoura",
-        "wilaya_id": "47"
+        "wilaya_id": "47",
+        "nom": {
+            "ar": "بنورة",
+            "fr": "Bounoura"
+        },
+        "gps": {
+            "lng": 3.6015207,
+            "lat": 32.4633255
+        }
     },
     {
-        "id": "1501",
+        "id": 1500,
         "code_postal": "47011",
-        "nom": "Hassi Fehal",
-        "wilaya_id": "47"
+        "wilaya_id": "47",
+        "nom": {
+            "ar": "حاسي الفحل",
+            "fr": "Hassi Fehal"
+        },
+        "gps": {
+            "lng": 3.6762683,
+            "lat": 31.6027043
+        }
     },
     {
-        "id": "1502",
+        "id": 1501,
         "code_postal": "47012",
-        "nom": "Hassi Gara",
-        "wilaya_id": "47"
+        "wilaya_id": "47",
+        "nom": {
+            "ar": "حاسي القارة",
+            "fr": "Hassi Gara"
+        },
+        "gps": {
+            "lng": 2.9126022,
+            "lat": 30.5472849
+        }
     },
     {
-        "id": "1503",
+        "id": 1502,
         "code_postal": "47013",
-        "nom": "Mansoura",
-        "wilaya_id": "47"
+        "wilaya_id": "47",
+        "nom": {
+            "ar": "منصورة",
+            "fr": "Mansoura"
+        },
+        "gps": {
+            "lng": 3.751126799999999,
+            "lat": 31.9802146
+        }
     },
     {
         "id": 1504,
@@ -16662,8 +19560,8 @@
             "fr": "Belaassel Bouzegza"
         },
         "gps": {
-            "lng": 0.498890,
-            "lat": 35.840560
+            "lng": 0.49889,
+            "lat": 35.84056
         }
     },
     {
@@ -16792,8 +19690,8 @@
             "fr": "Beni Dergoun"
         },
         "gps": {
-            "lng": 0.800000,
-            "lat": 35.780000
+            "lng": 0.8,
+            "lat": 35.78
         }
     },
     {
@@ -17013,8 +19911,8 @@
             "fr": "Beni Zentis"
         },
         "gps": {
-            "lng": 0.663610,
-            "lat": 36.111390
+            "lng": 0.66361,
+            "lat": 36.11139
         }
     },
     {
@@ -17052,8 +19950,8 @@
             "fr": "El Hassi"
         },
         "gps": {
-            "lng": 1.053610,
-            "lat": 35.770560
+            "lng": 1.05361,
+            "lat": 35.77056
         }
     },
     {
@@ -17117,8 +20015,8 @@
             "fr": "Ouled Sidi Mihoub"
         },
         "gps": {
-            "lng": 0.691670,
-            "lat": 35.973890
+            "lng": 0.69167,
+            "lat": 35.97389
         }
     }
 ]
